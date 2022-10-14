@@ -1,0 +1,989 @@
+FName,LName,Age,Sex,DOD,POD,PlotNo,CaseNo,Jurisdiction,DateScraped,SourceURL
+MARION,MOSS,53,MALE,08/02/1978,330 W 95TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CLIFFORD,ALLEN,76,MALE,08/02/1978,METROPOLITAN HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,35,MALE,08/02/1978,673 LENOX AVE,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"ISADACE, A.",WYNN,76,UNKNOWN,08/02/1978,DEWITT NURSING HOME,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,HAMP,30,MALE,08/01/1978,409 AMSTERDAM AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HAMPTON,THOMPSON,60,MALE,08/01/1978,127 CHAMBERS ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GLORIA,FLOWERS,94,FEMALE,08/01/1978,LAGUARDIA HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CALVERTA,MASTER,50,FEMALE,07/31/1978,433 WEST 125TH ST.,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IGNATIVE,GLOMSKI,67,UNKNOWN,07/31/1978,548 52ND ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FERULOO,ORLANDO,71,MALE,07/30/1978,ST. CLARE'S HOSPITAL AND HEALTH CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THOMAS,ATKINS,57,MALE,07/30/1978,JEWISH MEMORIAL HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EVELYN,JOSHUA,76,FEMALE,07/30/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JESSIE,HALL,45,UNKNOWN,07/30/1978,114 W 127TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,OVECKA,90,MALE,07/29/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROGER LEE,CLARK,25,MALE,07/29/1978,782 PROSPECT AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERIC,BORCHERT,86,MALE,07/28/1978,140 W 80TH ST.,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,MALLHER,79,MALE,07/28/1978,CALVARY HOSPITAL,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EUNICE,JOHNSON,64,FEMALE,07/28/1978,BELLEVUE HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPHINE M.,HEALY,65,FEMALE,07/28/1978,341 WEST 21ST ST.,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,70,MALE,07/27/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+KATE,SMITH,63,FEMALE,07/27/1978,69 TIEMANN PLACE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PRENINER,EVANS,75,UNKNOWN,07/27/1978,222 RIVERSIDE DRIVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IMRON,WILLIS,80,UNKNOWN,07/27/1978,TERRACE HEIGHT HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FELICIA,MEDINA,57,FEMALE,07/26/1978,621 W 135TH ST.,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DORHEIM,SUERRE,75,UNKNOWN,07/26/1978,548 52ND ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"PETER, J.",FENTON,70,MALE,07/25/1978,41 HAMILTON PLACE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DAVID,EVANS,81,MALE,07/25/1978,377 4TH ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DELLA,DUEHRING,93,FEMALE,07/25/1978,DEEPDALE GENERAL HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,35,MALE,07/24/1978,HARLEM RIVER & W 145TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HARRY,KUCK,77,MALE,07/24/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"THEODORE, J.",SADOWSKI,52,MALE,07/23/1978,242 WEST 49TH ST.,113,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ARTHUR,WILLIAMS,85,MALE,07/23/1978,514W 152ND ST.,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,BANFILL,54,MALE,07/22/1978,NEW YORK DOWNTOWN HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,07/22/1978,1010 BAYCHESTER AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CLAUDE,GILBERT,74,MALE,07/22/1978,PENINSULA HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LUEILA,BARBOUR,71,FEMALE,07/22/1978,255 W 43RD ST.,115,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EDWARD,MARTIN,70,MALE,07/21/1978,315 BOWERY BLVD,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NATHAN,CHAMBER,60,MALE,07/21/1978,CUMBERLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,FEMALE,07/21/1978,1306 BOSTON RD,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"FRANK, C.",NEEF,74,MALE,07/20/1978,340 BOWERY ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LOUISE,WEIBEL,68,FEMALE,07/20/1978,JAMAICA HOSPITAL MEDICAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"WILLIE, E.",COLEMAN,65,MALE,07/19/1978,55 W 110TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+AUSTIN,CHEROCHE,67,MALE,07/19/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALBERT,PHISTERER,73,MALE,07/19/1978,17 PROSPECT PLACE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROSE,BUSCH,65,FEMALE,07/17/1978,250 W 77TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CYRIL,FERRICK,53,UNKNOWN,07/17/1978,250 W 77TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANCIS,BICKERT,59,UNKNOWN,07/17/1978,1109 MANHATTAN AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,THOMAS,80,MALE,07/16/1978,KINGS COUNTY HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+OSCAR,CASARETTP,33,MALE,07/16/1978,44TH DRIVE AND E RIVER,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DEBRAH ANN,PADGETT,22,FEMALE,07/16/1978,581 TIMPSON PLACE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DANTE,GIOVANELLI,42,MALE,07/15/1978,F.D.R. DRIVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EDNA,OLLRY,80,FEMALE,07/15/1978,WOODBURY NY,127,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALGIN,WEAVER,78,UNKNOWN,07/15/1978,LONG ISLAND COLLEGE HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALBERT,JOHNSON,40,MALE,07/12/1978,MANHATTAN STATE HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DAVID,LEIB,76,MALE,07/12/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PATRICIA,BRENNEN,60,FEMALE,07/12/1978,BELLEVUE HOSPITAL CENTER,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,CARSON,51,MALE,07/11/1978,254 W 98 ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERNEST,MILLEDGE,40,MALE,07/11/1978,HOSPITAL FOR JOINT DISEASES,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANDREW,ANDREWS,84,MALE,07/11/1978,CALEDONIAN HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VINCENT,JACKSON,44,MALE,07/11/1978,179 BURNSIDE AVE,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,07/10/1978,197 ST. NICHOLAS AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,MALE,07/10/1978,200 YDS NORTH CENTER DRIVE NORTH,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JACKIE,GIBBS,48,FEMALE,07/10/1978,470 WAVERLY AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LOUIS,RODRIGUEZ,45,MALE,07/09/1978,METROPOLITAN HOSPITAL CENTER,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EVELYN,EKH,47,FEMALE,07/09/1978,49 POYSON AVE,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SARAH,MURPHY,91,FEMALE,07/09/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,07/08/1978,169 RIVINGTON ST.,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAUN,CEPEDA,30,MALE,07/07/1978,MT. MORRIS PARK,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,PITIZTUS,66,MALE,07/07/1978,315 BOWERY,116,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,FEMALE,07/06/1978,72ND ST. B'WAY SUBWAY,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROSINA,KNOLES,93,FEMALE,07/05/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,MALE,07/04/1978,KINGS COUNTY HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,07/04/1978,LENOX HILL HOSPITAL,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SIDNEY,OLONZO,74,FEMALE,07/04/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MAJORIE,GAHERITY,58,FEMALE,07/03/1978,MANHATTAN STATE HOSPITAL,114,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GREGORY,BLESSING,54,MALE,07/02/1978,BETH ISRAEL MEDICAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"CHARLES, S.",GIGLIO,55,MALE,07/02/1978,F/O 95-25 QUEENS BLVD,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EDWIN,LEAVITT,40,MALE,07/01/1978,220 BOWERY,113,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DOUGLAS,HARRISON,27,MALE,06/30/1978,130 W 112ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MIKE,STRICKLAND,38,MALE,06/30/1978,CONEY ISLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JENOE,BATIZ,48,UNKNOWN,06/30/1978,114-03 NORTH CONDUIT BLVD,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+AUGUSTINO,ARMANDO,75,MALE,06/29/1978,244 W 56TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,LAWLER,75,MALE,06/29/1978,BOOTH MEMORIAL HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALICE,KERRIGAN,72,FEMALE,06/29/1978,725 4TH AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,HARROLD,53,MALE,06/27/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,DONAHUE,64,MALE,06/27/1978,2001 GLEASON AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,MEYER,59,MALE,06/26/1978,ROCKAWAY CARE CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,MURPHY,50,MALE,06/26/1978,1059 THIRD AVE,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EMANUEL,VANDERBROOK,67,MALE,06/26/1978,231 W 230TH ST,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HEINRICH,GOMPETZ,50,MALE,06/26/1978,BRYANT PARK ON GRASS,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RUTH,GALLAGHER,72,FEMALE,06/26/1978,JAMAICA HOSPITAL MEDICAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSE,COLON,46,MALE,06/25/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IVAN,COLLENDER,75,MALE,06/25/1978,BROOKLYN HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JACOB,FARBER,81,MALE,06/25/1978,ST. ELIZABETH,116,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,ZELLER,43,MALE,06/24/1978,HARLEM HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ELIZABETH,KENNEDY,60,FEMALE,06/24/1978,BELLEVUE HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LOUISE,LOFTIN,69,FEMALE,06/24/1978,CUMBERLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,06/22/1978,EAST RIVER BETWEEN MARKET & SOUTH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+TIM,GANG,74,MALE,06/20/1978,81 CHRYSTIE ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JACK,BESRODOMY,80,MALE,06/20/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HECTOR,MCFARLANE,67,MALE,06/20/1978,PENINSULA HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARION,GREGERSON,84,MALE,06/20/1978,162 7TH AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,HARRIS,51,MALE,06/20/1978,ARTHUR C. LOGAN MEMORIAL HOSPITAL,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CATHERINE,KELLY,45,FEMALE,06/20/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,06/19/1978,I/F/O 38 HOWARD ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CARLOS,RODRIGUEZ,31,MALE,06/19/1978,R/O 48 LOOP ROAD,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,DORIS,65,MALE,06/19/1978,125 BOWERY,113,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERIC,REUBEY,70,MALE,06/18/1978,NORTH CENTRAL BRONX HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANN,BENDY,70,FEMALE,06/18/1978,29 EAST 29TH STREET,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IRVING,WALDER,50,MALE,06/17/1978,HOSPITAL FOR JOINT DISEASES,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BERNARD,BERKOWSKI,55,MALE,06/17/1978,GREENPOINT HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANCIS,TRUESDELL,68,UNKNOWN,06/17/1978,51 CLARK ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GERARD,GRADY,60,MALE,06/16/1978,486 9TH AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MANUEL,JIMENEZ,46,MALE,06/16/1978,BELLEVUE HOSPITAL CENTER,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DONALD,BROWN,65,MALE,06/16/1978,35TH ST. NICHOLAS TERRACE,125,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAMS,DIXON,65,MALE,06/14/1978,53 STANTON ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,ZEBRO,64,MALE,06/14/1978,RICHMOND MEMORIAL HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANTHONY,LEON,54,MALE,06/13/1978,874 6TH AVE N.Y.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,COLLINS,68,MALE,06/12/1978,52 7TH AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ASTRID,PETERSON,84,UNKNOWN,06/12/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRITZ,JENKINS,83,MALE,06/11/1978,216 CARROLL ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PHILPOT,WILLIAMS,49,UNKNOWN,06/11/1978,NEW YORK PRESBYTERIAN HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,JAVEZS,48,MALE,06/10/1978,HARLEM HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,26,FEMALE,06/10/1978,GOVERNERS ISLAND,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSE,GONZALEZ,32,MALE,06/09/1978,79 WASHINGTON ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VIRGINIA,SCOTT,59,FEMALE,06/09/1978,HARLEM HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANTON,PEKARSKY,72,MALE,06/08/1978,NEW YORK DOWNTOWN HOSPITAL,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ULPIANA,TARGA,89,FEMALE,06/08/1978,JACOBI MEDICAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SOPHIE,BORMAN,77,FEMALE,06/07/1978,PENINSULA HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+KENNETH,MELOTY,49,MALE,06/06/1978,NEW YORK DOWNTOWN HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,06/06/1978,HUDSON RIVER 180TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,DIMARA,59,MALE,06/06/1978,1420 BROOKLYN AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,FURGERSON,64,MALE,06/06/1978,STATEN ISLAND UNIVERSITY HOSPITAL,127,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,MALE,06/05/1978,605 W 182ND ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARY,GORMALLY,72,FEMALE,06/05/1978,222 E 70TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,FEMALE,06/04/1978,HARLEM RIVER & 145TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LAWRENCE,THORNE,54,MALE,06/03/1978,HARLEM HOSPITAL CENTER,155,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,UNKNOWN,N/A,UNKNOWN,06/03/1978,SILVER BEACH,137,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,MARKOVICH,39,MALE,06/02/1978,225 HERZEL ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DOLORES,HICKEY,103,FEMALE,06/02/1978,VILLAGE NORSING NO,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,75,MALE,06/01/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,DAVIDSON,70,MALE,06/01/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,35,MALE,06/01/1978,DYCKMAN ST. & HUDSON RIVER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JACOBI,HOHENSTEIN,85,MALE,06/01/1978,NEW YORK PRESBYTERIAN HOSPITAL,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSE,DESILVA,85,MALE,05/31/1978,ESSEX AND DELANCEY ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,BAMMANN,79,MALE,05/31/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,HARRIS,60,MALE,05/31/1978,2382 SEVENTH AVE,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IAN,WIKEEL,52,MALE,05/31/1978,424 EAST 14TH ST.,112,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HAZEL,SMITH,37,FEMALE,05/31/1978,124-05 B'WAY BEACH BLVD,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,35,MALE,05/28/1978,HUDSON RIVER WEST BANK,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SILAS,MCCLURE,44,MALE,05/27/1978,NEW YORK PRESBYTERIAN HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,HAUGHERY,63,MALE,05/27/1978,423 W 22ND ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BEATRICE,HANNESSY,70,FEMALE,05/26/1978,CUMBERLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LAU,LAI,50,UNKNOWN,05/26/1978,NEW YORK DOWNTOWN HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HEWSON,WOODWARD,55,MALE,05/24/1978,427 W 45TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ESTELLA,ELMORE,77,FEMALE,05/24/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,05/23/1978,PIER 36 EAST RIVER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,45,MALE,05/23/1978,EAST RIVER & RUTGER SLIP,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,05/23/1978,1752 SHORE PKWAY,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARY,MCFARLAND,80,FEMALE,05/23/1978,174 W 109TH ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IRA,ROBERTSON,80,MALE,05/22/1978,BELLEVUE HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,KING,45,MALE,05/22/1978,101 W. 115TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,05/22/1978,RIVERSIDE PK. 100TH ST. HUDSON RIVER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EDWIN,TURNER,44,MALE,05/22/1978,227 E 45TH ST. NYC,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HOWARD,REED,63,MALE,05/22/1978,BROOKDALE UNIVERSITY HOSPITAL AND MEDICAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,25,FEMALE,05/22/1978,EAST RIVER 20TH AVE & 31ST ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MAUREEN,HIRSCH,74,FEMALE,05/22/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,130,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,MALE,05/21/1978,420 W. 24TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,40,MALE,05/21/1978,EAST RIVER & DOVER ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"ALEXANDER, R.",THOMAS,41,MALE,05/21/1978,107TH ST. AND EAST RIVER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,40,MALE,05/20/1978,LENOX HILL HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARTHA,JONES,79,FEMALE,05/20/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,05/19/1978,WEST ST. & HUDSON RIVER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ARLENE,BURKE,61,FEMALE,05/19/1978,HILLCREST GENERAL HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,05/18/1978,HARLEM RIVER AT 203RD ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MAGARET,ROSE,80,FEMALE,05/18/1978,40 WEST 45TH ST.,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRED,FORMICH,50,MALE,05/16/1978,12 EAST 31ST ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,RUTLEDGE,78,MALE,05/16/1978,2225 LODOVICK AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRED,CAPPIZZO,54,MALE,05/16/1978,CUMBERLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,MONTGOMERY,55,MALE,05/16/1978,248 W 71ST ST.,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CLAYBURN,CARPENTER,65,MALE,05/15/1978,160 E 25TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSPEH,MCCOY,66,MALE,05/15/1978,109 WEST 45TH ST.,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+OTIS,LEMON,36,MALE,05/14/1978,HARLEM RIVER -WAB,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,65,MALE,05/14/1978,157 W. 33RD ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ELIZABETH,RICHARDS,95,FEMALE,05/14/1978,QUEENS HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEONORA,GLOVER,75,FEMALE,05/14/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GRACE,SMITH,85,FEMALE,05/14/1978,GREENPOINT HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LANIT,WALTERS,31,UNKNOWN,05/14/1978,METROPOLITAN HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENSIL,SMITH,64,UNKNOWN,05/14/1978,ST. MARY'S HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,BORCHERS,70,MALE,05/13/1978,E 88TH ST. AND EAST END AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROY,THORN,69,MALE,05/12/1978,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MORRIS,RICHARD,75,MALE,05/12/1978,NORTH CENTRAL BRONX HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ARTHUR,MOSS,65,MALE,05/12/1978,197 BOWERY,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MIGUEL,RIVERA,40,MALE,05/10/1978,358 WEST 51ST ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RICHARD,HOSKING,77,MALE,05/10/1978,TERRACE HEIGHT HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,VARNEKE,53,MALE,05/10/1978,SYDENHAM HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BESSIE,WALKER,64,FEMALE,05/10/1978,JACOBI MEDICAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EDWARD,DESCHENES,65,MALE,05/09/1978,4211 BROADWAY,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DAN,COATES,49,MALE,05/09/1978,301 10TH AVE,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,FEMALE,05/09/1978,PR 7 ANHAH A BAY,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EDWARD,MCCLAUSLAND,73,MALE,05/07/1978,86 EAST 7TH ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,SPARKS,65,MALE,05/07/1978,142 WEST 112TH ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,DREW,47,MALE,05/05/1978,LONG ISLAND COLLEGE HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,APPT,81,MALE,05/05/1978,FLOWER FIFTH AVE,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RAYMOND,CLERK,35,MALE,05/04/1978,HARLEM HOSPITAL CENTER,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PHILLIP,BENILDO,86,MALE,05/04/1978,HARLEM HOSPITAL CENTER,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,KNIGHT,65,MALE,05/03/1978,CALVARY HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,SEEGER,78,MALE,05/03/1978,JEWISH MEMORIAL HOSPITAL,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,WILLIAMS,62,MALE,05/03/1978,8 EAST 3RD ST.,121,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NICHOLAS,MOSHOW,80,MALE,05/02/1978,LAWRENCE N. H.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+TONY,BURGA,75,MALE,05/02/1978,CONEY ISLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BARBARA,WILLIAMS,37,FEMALE,05/02/1978,85 8TH AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CORA,ROSS,74,FEMALE,05/02/1978,189 MCDONOUGH ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROY,DAVIS,78,MALE,05/01/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,CHEEK,45,MALE,05/01/1978,SAINT BARNABAS MEDICAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,PAPIN,69,MALE,05/01/1978,306 WEST 91ST ST.,123,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DAWN,PERRY,23,FEMALE,05/01/1978,352 50 ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HAZEL,N/A,78,FEMALE,05/01/1978,201 W 93RD ST.,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JUCY,RECCY,26,UNKNOWN,05/01/1978,184 11TH AVE,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GORDON,GILLISPE,55,MALE,04/30/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,112,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THELMA,RIOHARDSON,46,FEMALE,04/30/1978,258 WEST 55TH ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,PERRY,73,MALE,04/29/1978,CITY HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THEODORE,JORDON,70,MALE,04/29/1978,72ND ST. AND BROADWAY SUBWAY STATION,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SAMUEL,STOKES,70,MALE,04/29/1978,194 MENAHAN ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,NIX,N/A,MALE,04/29/1978,CUMBERLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CECILE,ADAMS,85,FEMALE,04/29/1978,ST. JOHN'S EPISCOPAL HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALFRED,INNIS,53,MALE,04/28/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,TWOLOG,53,MALE,04/28/1978,503 W 41ST ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BENJAMIN,EPPS,68,MALE,04/27/1978,CALVARY HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,FOULKS,66,MALE,04/27/1978,CUMBERLAND HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EMILY,KORSEN,65,FEMALE,04/27/1978,223 E 10TH ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANNA,GILBERT,48,FEMALE,04/27/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"HENRY, V.",CANNON,53,MALE,04/26/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,VILLAREAL,68,MALE,04/26/1978,186 ROBELING ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,04/25/1978,500 YRD W. MARINE PKWAY,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DORA,SIGARS,67,FEMALE,04/25/1978,QUEENS HOSPITAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,HINES,77,MALE,04/24/1978,BROOKDALE UNIVERSITY HOSPITAL AND MEDICAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+AARON,DUVALL,81,MALE,04/23/1978,BELLEVUE HOSPITAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,35,MALE,04/23/1978,EAST RIVER & 107TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"FREDERICK, J.",SMITH,48,MALE,04/22/1978,8TH AVE AND GREENWICH ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MICHAEL,JENKISSON,35,MALE,04/22/1978,CANAL STREET AND BROADWAY,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARY,COLES,84,FEMALE,04/21/1978,METROPOLITAN HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,UNKNOWN,04/21/1978,BAY 44ST SHORE LINE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SAMUEL,RODRIQUEZ,40,MALE,04/20/1978,BELLEVUE HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,MCMAHON,69,MALE,04/19/1978,315 WEST 23RD ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"LOUIS, A.",COHEN,46,MALE,04/19/1978,325 W 43RD ST.,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,GILL,68,MALE,04/19/1978,309 W 117TH ST.,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,PREMINGER,66,MALE,04/18/1978,318 WEST 51ST ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+TILLIE,ISSLER,89,FEMALE,04/17/1978,LAGUARDIA HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SOPHIE,GOTTBETTER,77,FEMALE,04/17/1978,1684 GR. CONCOURSE,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,TARKANY,78,MALE,04/15/1978,CUMBERLAND HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,ABRAMS,77,MALE,04/15/1978,ST. JOHN'S EPISCOPAL HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHANNA,MUELLER,89,FEMALE,04/15/1978,FLUSHING HOSPITAL MEDICAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LILLIAM,FLOWERS,41,UNKNOWN,04/15/1978,CUMBERLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EARL,BUFFORD,66,MALE,04/13/1978,NORTH CENTRAL BRONX HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RULDOPH,ROBINSON,54,MALE,04/13/1978,GREEN PARK CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,MARSHALL,82,MALE,04/11/1978,VICTORY MEMORIAL HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,BETHAE,34,MALE,04/11/1978,617 GRAND ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HERBERT,SMITH,62,MALE,04/10/1978,8 EAST 3RD STREET,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,CARMELO,54,MALE,04/10/1978,650 TREMONT AVE,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,CRAID,45,MALE,04/10/1978,CUMBERLAND HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,65,FEMALE,04/10/1978,F/O 25 W. 32ND ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LILLIE,WHEELER,88,FEMALE,04/10/1978,CUMBERLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ABRAHAM,IRRARRY,30,MALE,04/09/1978,36TH ST. INO SUBWAY STATION,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"NEVILLE, S.",DOGO,37,MALE,04/07/1978,1749 AMSERDAM AVE,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EULGLIO,SANTIAGO,55,UNKNOWN,04/07/1978,3035 BRI. 1ST ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+TAMES,CLIFFORD,77,UNKNOWN,04/07/1978,25 CLAREMONT AVE,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROGERS,KIMBRO,47,MALE,04/06/1978,2597 8TH AVE,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BENNO W.,SAUCH,79,MALE,04/06/1978,SYOSSET N.Y.,124,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PATRICK,BUCKLEY,50,MALE,04/03/1978,NEW YORK DOWNTOWN HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,MERCIER,50,MALE,04/03/1978,BELLEVUE HOSPITAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ELROY,NEVERTA,80,MALE,04/02/1978,145 E 23RD ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EMILY,ALLEN,85,FEMALE,04/02/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EDWARD,OLIVER,57,MALE,04/01/1978,12-14 HILL MANOR RESON RD,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EUGENE,UNKNOWN,47,MALE,03/31/1978,752 NOSTRAND AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,CHRISTIANSEN,71,MALE,03/31/1978,548 52ND ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,WILCOX,56,MALE,03/30/1978,LOGAN MEMORIAL HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,BENETTA,73,MALE,03/30/1978,CUMBERLAND HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANNA,HURT,88,FEMALE,03/30/1978,PARSONS HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FAYEZ,ALMANTEZ,61,UNKNOWN,03/30/1978,MOSHOLU PWAY NURSING HOME,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LAURENCE,HUBER,78,MALE,03/28/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAMS,HINES,83,MALE,03/28/1978,MISERICORDIA HOSPITAL MEDICAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+TONO,WU,65,UNKNOWN,03/27/1978,335 E 70TH STREET,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EDWARD,LANG,58,MALE,03/25/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ADDIE,HENDERSON,56,FEMALE,03/25/1978,119 WILLOUGHBY ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LILLIAN,BAILEY,80,FEMALE,03/23/1978,LOGAN MEMORIAL HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ARDELIA,KING,56,FEMALE,03/23/1978,HARLEM HOSPITAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,19,FEMALE,03/23/1978,PROSPECT PARK LAKE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DELORES,FRANCIS,92,FEMALE,03/21/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARIA,SANTANA,81,FEMALE,03/21/1978,251 WEST 92ND ST.,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SEIN,BURDIQE,79,MALE,03/20/1978,NEW YORK DOWNTOWN HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,30,MALE,03/20/1978,FD. IN LITTLEHECK PK,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,NEISSER,56,MALE,03/20/1978,KINGS COUNTY HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ELIZABETH,ANDREWS,71,FEMALE,03/19/1978,CALVARY HOSPITAL,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ZORA,FOUCHA,80,FEMALE,03/16/1978,HARLEM HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALBERT,PRINCE,57,MALE,03/15/1978,1627 MERMAID AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANCES,FRIEDLAND,52,MALE,03/15/1978,1517TH 10TH AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ETHEL,MITCHELL,63,FEMALE,03/15/1978,LOGAN MEMORIAL HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,03/14/1978,18 W. 11TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALDORA,BUNCH,42,FEMALE,03/13/1978,51 CLARK ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MINNIE,BRADLEY,86,FEMALE,03/13/1978,220 W 141ST ST.,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CLIFFORD,COTHBERT,70,MALE,03/11/1978,RIVERVIEW NURSING HOME,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,35,MALE,03/09/1978,FT. OF COLUMBIA ST. WATER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEE,EGERH,51,MALE,03/09/1978,125 BOWERY,112,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THOMAS,THAMARIN,91,MALE,03/08/1978,KINGS HARBOR NURSING HOME,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARIE,MASH,50,FEMALE,03/08/1978,ST. MARY'S HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHNNY,ISRAEL,20,MALE,03/07/1978,37-51 93RD ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,BARKER,57,MALE,03/06/1978,RIVER MANOR MOR. CSO E 104 ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,O'NEILL,40,MALE,03/03/1978,3200 BX. BLVD.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAYA,LE GRANDE,32,UNKNOWN,03/03/1978,104 ST. MARKS PLACE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,MALK,53,MALE,03/02/1978,JEWISH MEMORIAL HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BERTHA,MORTON,66,FEMALE,03/02/1978,CUMBERLAND HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERTS,RIVERS,39,MALE,03/01/1978,SAINT BARNABAS MEDICAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THOMAS,HARRISON,33,MALE,03/01/1978,7TH AVE AND 9TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEWDY,HINTON,55,UNKNOWN,02/28/1978,315 BOWERY BLVD,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,ADAMS,75,MALE,02/27/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHNNIE,MORRE,40,MALE,02/27/1978,1505 WALTON AVE BRONX,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"BERNARD, A.",GEE,50,MALE,02/27/1978,161 W 36TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEE,FOSTER,47,MALE,02/27/1978,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DAVID,RIVERA,30,MALE,02/25/1978,BETH ISRAEL MEDICAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILSON,JOHNSON,50,MALE,02/24/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PHILLIP,WELLS,54,MALE,02/23/1978,METROPOLITAN HOSPITAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,BIGUS,59,MALE,02/22/1978,37 W HOUSTON ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BERT,YOSHIDA,61,MALE,02/22/1978,COLUMBIA MEMORIAL HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,FORD,74,MALE,02/22/1978,404 7TH AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ELEANOR,LEWIS,59,FEMALE,02/22/1978,ST. CLARE'S HOSPITAL AND HEALTH CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROSE,KESSLER,80,FEMALE,02/22/1978,NEW YORK PRESBYTERIAN HOSPITAL,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,RICHARDS,65,MALE,02/21/1978,134 E 143RD ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GERALDINE,WRIGHT,78,FEMALE,02/21/1978,71 W 124TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BENNIE,ROBINSON,38,MALE,02/20/1978,316 W 95TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,HILL,58,MALE,02/20/1978,301 WEST 153RD STREET,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DOROTHY,HITE,60,FEMALE,02/20/1978,355 6TH AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ARTHUR,WHITING,49,MALE,02/19/1978,FRONT OF EAST BROADWAY,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,65,MALE,02/18/1978,12 STRANTON ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,DUHART,66,MALE,02/18/1978,UNITY HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GLADYS,MARSHAL,89,FEMALE,02/18/1978,537 CLINTON AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,55,MALE,02/17/1978,75 E 111TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,BRYANT,59,MALE,02/17/1978,223 2ND AVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DANIEL,RODRIQUEZ,N/A,MALE,02/17/1978,202 DEAN ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,02/17/1978,PE-KLAB-WYCKOFF STA LL LINE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DANIAL,GREANY,77,UNKNOWN,02/17/1978,485 E 138TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,JOHNSON,61,MALE,02/16/1978,MISERICORDIA HOSPITAL MEDICAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HYMAN,FISCH,61,UNKNOWN,02/15/1978,306 W 80TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,KOCH,49,MALE,02/14/1978,222 RIVERSIDE DRIVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,SAUNDERS,58,MALE,02/14/1978,ST. CLARE'S HOSPITAL AND HEALTH CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,MACONE,79,MALE,02/14/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DANIEL,FERGUSON,42,MALE,02/14/1978,CONEY ISLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANABEL,CABYRA,25,FEMALE,02/14/1978,NEW YORK PRESBYTERIAN HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EMERY,FRIED,66,UNKNOWN,02/14/1978,"""HEMPSTEAD N.Y,""",114,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VINCENT,WILLIS,50,MALE,02/12/1978,ST. MARY'S HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HURRIA,JONES,53,FEMALE,02/12/1978,ATLANTIC AND NOSTRAND,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NANA,MILLER,43,UNKNOWN,02/12/1978,FRONT OF 1802 ATLANTIC AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,MAJACHER,73,MALE,02/11/1978,140 HESTER ST.,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAULINE,KSHAMINSHIR,81,FEMALE,02/11/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JESSIE MAE,UNKNOWN,63,FEMALE,02/11/1978,230 E 121 ST,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,WHITMAN,78,UNKNOWN,02/11/1978,F/O 50 EAST 1ST ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALVIN,JONES,42,MALE,02/10/1978,360 W 45TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"HARRY, C.",SWANSON,60,MALE,02/10/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WALTER,BACHENHEIMER,60,MALE,02/10/1978,317 WEST 87TH ST.,116,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GONZALO,GANZALEZ,74,MALE,02/09/1978,1082 SO BLVD,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ELI,SHERRIFF,35,MALE,02/09/1978,28 WEST 15TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CLINTON,JEFFERSON,77,MALE,02/08/1978,HARLEM HOSPITAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PETER,NUTAN,67,MALE,02/07/1978,QUEENS HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,70,FEMALE,02/07/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BETTY,ARCHIBALD,74,FEMALE,02/07/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CARL,BARBER,39,MALE,02/06/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"TROY, PETROFF",HOTZYZETROT,72,MALE,02/06/1978,QUEENS HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,18,MALE,02/06/1978,24-48 94TH STREET,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HARRY,SILVER,65,MALE,02/05/1978,145 E 23RD ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IRIS,CRUZ,65,FEMALE,02/05/1978,JACOBI MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FLORA,KITE,78,FEMALE,02/05/1978,PARSONS HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+TERRY,FAGAN,60,FEMALE,02/05/1978,VILLAGE NORSING NO,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,REINER,73,MALE,02/04/1978,ELMHURST HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BEN,MCKINLEY,56,MALE,02/04/1978,BETH ISRAEL MEDICAL CENTER,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,MORABITO,40,MALE,02/03/1978,303 E 30TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,SMITH,68,MALE,02/03/1978,STATEN ISLAND UNIVERSITY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,MEDITZ,58,MALE,02/03/1978,QUEENS HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BLANCHE,BROWN,73,FEMALE,02/03/1978,500 W 144TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CRUZERO,DIMAS,52,UNKNOWN,02/03/1978,AMER. NURSERY HOME,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GLEN,HOWELL,72,MALE,02/02/1978,LA GAURDIA,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,BONZ,71,MALE,02/02/1978,CONEY ISLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,35,MALE,02/01/1978,BANK OF BRONX RIVER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARIANO,SERRANO,43,MALE,02/01/1978,1510 NOE AVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERICH,SPECHT,74,MALE,02/01/1978,BRONX-LEBANON HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANGELO,ANTONELLI,60,MALE,02/01/1978,354 9TH ST.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DORTHY,WINK,41,FEMALE,02/01/1978,150 BARROW ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LOUIE,PORMAN,77,MALE,01/31/1978,NEW YORK PRESBYTERIAN HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,CAUERES,56,MALE,01/31/1978,391 E 110 ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLOTTE,CUFFLEY,88,FEMALE,01/31/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FURZTUDSA,ROSADA,53,FEMALE,01/31/1978,ST. ROSE HOME,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SHIRLEY,JOHNSON,40,FEMALE,01/31/1978,BELLEVUE HOSPITAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EUGENE,CARRIONE,40,MALE,01/30/1978,879 CAUDWELL AVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,DRAGUM,52,MALE,01/30/1978,209 E 14TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DAVID,CLAYTON,56,MALE,01/30/1978,175 W 85TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,CUCHAN,60,MALE,01/30/1978,F/O 226 W 122ND ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,55,MALE,01/29/1978,NORTH CENTRAL BRONX HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,SHEPARD,56,MALE,01/29/1978,179TH PL HILLSIDE AVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MORRIS,MEYERS,88,MALE,01/29/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RACHEL,BERTHA,48,FEMALE,01/29/1978,BRONX-LEBANON HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RAFFAELA,DEGRAZIO,70,FEMALE,01/29/1978,3046 W 22ND ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,55,MALE,01/28/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANNABELLE,MEYER,75,FEMALE,01/28/1978,METROPOLITAN HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALONZO,KIMBLE,79,MALE,01/27/1978,BELLEVUE HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LOUIE,KONZMAN,69,MALE,01/27/1978,BELLEVUE HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WESLEY,FRISING,62,MALE,01/27/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HAROLD,CARBONE,59,MALE,01/27/1978,35TH ST. AND 1ST AVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLARD,BROWNELL,80,MALE,01/27/1978,BROOKLYN HOSPITAL CENTER,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,WITOLD,96,MALE,01/26/1978,220 E 27 ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,01/26/1978,571 HARVARD AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THOMAS,WILLIAMS,79,MALE,01/25/1978,TRAFALGAR HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MICHELL,HERTZ,66,MALE,01/24/1978,315 W. 23RD ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HAROLD,OGLASBY,57,MALE,01/24/1978,KINGS COUNTY HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HARRY,RICE,61,MALE,01/24/1978,MISERICORDIA HOSPITAL MEDICAL CENTER,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIE,WELLS,45,MALE,01/23/1978,NEW YORK DOWNTOWN HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ELFREDA,SEEGMULLER,78,FEMALE,01/23/1978,MEADOW PARK NURSING HOME,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARGERY,CARY,75,FEMALE,01/23/1978,LEROY HOSPITAL,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LUCIAN,MEEHAN,74,MALE,01/22/1978,224 W 17TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HARRY,AVERY,77,MALE,01/22/1978,CALVARY HOSPITAL,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARGARET,KESSEL,79,FEMALE,01/22/1978,ST. JOHN'S EPISCOPAL HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPHINE,GILMORE,75,FEMALE,01/22/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MILLIE,WEEKEN,56,FEMALE,01/22/1978,500 WEST 140TH ST.,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,GOLDEN,41,MALE,01/20/1978,HARLEM RIVER DRIVE AND 178TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+OTTO,FITYO,44,MALE,01/19/1978,182 FORSYTHE ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"JAMES, E.",BARNES,53,MALE,01/19/1978,N.W. COR 179TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,ANDERSON,70,MALE,01/19/1978,KINGS COUNTY HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CINDY,SHEPARD,22,FEMALE,01/19/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BVARNE,HANSEN,63,UNKNOWN,01/19/1978,QUEENS HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GAMES,WAINWRIGHT,70,MALE,01/18/1978,124 W 47TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRED,WILSON,50,MALE,01/17/1978,300 W 112ND ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,OXENFORD,68,MALE,01/17/1978,CP LAGUARDIA,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERWIN,STRASSER,74,MALE,01/17/1978,119-15 27TH AVE NYC,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THOMAS,NELSON,50,MALE,01/16/1978,F/O 24 SEC AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,OWENS,58,MALE,01/16/1978,KINGS COUNTY HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RALPH,MORRISON,75,MALE,01/16/1978,506 W 126TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOE,ALEXANDER,50,MALE,01/16/1978,HARLEM HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IDA,WHITNEY,60,FEMALE,01/16/1978,141 WEST 110TH ST.,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,WILSON,50,MALE,01/15/1978,METROPOLITAN HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,ROSNER,50,MALE,01/15/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JACOB,GOLDENBERG,92,MALE,01/15/1978,WORKMEN CIRCLE HOME,113,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ELEANOR,MACNAUGHTON,70,FEMALE,01/15/1978,ISABELLA GERIATRIC CENTER,116,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,SANTOS,45,MALE,01/14/1978,PEARL AND DOVEL ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ARTHUR,MITCHELL,59,MALE,01/14/1978,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VIRGINIA,ROBERTSON,65,FEMALE,01/14/1978,61 ST. JAMES PLACE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BERNARD,SASARA,57,MALE,01/13/1978,BELLEVUE HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RALPH,SCHLENKER,64,MALE,01/13/1978,8 EAST 3RD STREET,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"CHARLES, H.",CORBIN,47,MALE,01/12/1978,1809 3RD AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WAYNE,REVOLLEY,65,MALE,01/12/1978,833 E 165TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HARRY,ISLASSMAN,55,MALE,01/12/1978,NORTH CENTRAL BRONX HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THERESA,WERTHEIM,101,FEMALE,01/12/1978,LAWRENCE N. H.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BENJMIN,MURPHY,53,MALE,01/11/1978,NEW YORK DOWNTOWN HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,MOORE,60,MALE,01/10/1978,ARTHUR C. LOGAN MEMORIAL HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,O'HARA,62,MALE,01/10/1978,QUEENS HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,MCKENSIE,67,MALE,01/10/1978,BROOKLYN HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DORSEY,ADAMS,43,FEMALE,01/10/1978,362 W 117TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARGARET,MCGURK,68,FEMALE,01/10/1978,ST. ROSE'S HOME,114,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"OSCAR, LEWIS",CROPP,33,MALE,01/09/1978,611 W. 112TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+KNUTE,SUENSON,74,MALE,01/09/1978,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,BRONKAL,70,MALE,01/09/1978,WASHINGTON SQUARE PARK,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GWENDOLYN,BANNER,42,FEMALE,01/09/1978,29 MT. MORRIS PARK,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"ROBERTO, SIERRA",COMACNO,47,MALE,01/08/1978,225 BOWERY,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+TONY,COLARAS,74,MALE,01/07/1978,ST. JOHN'S EPISCOPAL HOSPITAL,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"ISABELLA, R.",HUMPHREY,29,FEMALE,01/07/1978,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SURTA,KOKONA,70,UNKNOWN,01/07/1978,125 ALLEN ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,UNKNOWN,58,MALE,01/06/1978,ARTHUR C. LOGAN MEMORIAL HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,HAWKINS,46,MALE,01/06/1978,NEW YORK PRESBYTERIAN HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BJORNE,VELLE,74,MALE,01/06/1978,UNITY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NELSON,BROWN,54,MALE,01/06/1978,113 W 114TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,ADAIR,59,MALE,01/06/1978,241 BOWERY,112,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,UNKNOWN,45,FEMALE,01/06/1978,226 E 95TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,KING,34,MALE,01/04/1978,154 W 70TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,UNKNOWN,50,MALE,01/04/1978,BELLEVUE HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HAROLD,GRANT,70,MALE,01/04/1978,NEW YORK DOWNTOWN HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JERRY,BUNCH,81,MALE,01/04/1978,WILLOUGHBY NURSING HOME,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MAC,MEHLMAN,84,MALE,01/04/1978,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VITO,ARALIO,60,MALE,01/04/1978,SUPREME CT. BENCH PK,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VALENTIN,BOUTOVICH,60,FEMALE,01/03/1978,305 W 29TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GERTRUDE,GOLDSON,70,FEMALE,01/03/1978,MONTEFIORE MEDICAL CENTER,113,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+TRAN DINN,KNE,75,UNKNOWN,01/03/1978,LENOX HILL HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,55,MALE,01/02/1978,673 LENOX AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,MALE,01/02/1978,195 STRANTON ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,CLIMONS,56,MALE,01/02/1978,175 W 85TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DANIEL,SCHMAN,37,MALE,01/02/1978,W 94TH AND BROADWAY,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERNEST,BALL,78,MALE,01/02/1978,144-24 SOUTH RD,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANCES,JACKSON,93,MALE,01/02/1978,BROOUDALE AVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RUDOLPH,LEDERER,55,MALE,01/02/1978,35 W. 75TH ST.,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,FERGUSON,59,MALE,01/02/1978,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HAROLD,DOOLEY,65,MALE,01/02/1978,2825 EIGHT AVE,125,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,55,MALE,01/01/1978,I/F/O 58 BOWERY,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RENILE,KENMONGA,41,FEMALE,01/01/1978,419 W 128TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+KARL,MYKL,72,MALE,12/31/1977,NEW YORK COMMUNITY HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,40,MALE,12/31/1977,R/O 430 E 30TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,12/31/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIE,WELEH,25,MALE,12/31/1977,258 WEST 55TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LORENZO,STIENBECK,56,MALE,12/31/1977,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PRICILLA,SINK,71,FEMALE,12/31/1977,37-05 64TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARGARITA,CORUJO,87,FEMALE,12/31/1977,527 E. 6TH STR.,159,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HELEN,O'CONNOR,77,FEMALE,12/30/1977,158 W 92ND ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MACHRAN,NASUTION,50,UNKNOWN,12/30/1977,226 WEST 50TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERNEST,WACKENREUTER,93,MALE,12/29/1977,84 W 176 ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,KEARNEY,70,MALE,12/29/1977,161 W 36TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SAM,CARR,65,MALE,12/29/1977,2327 GRAND CONC.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,CLAYTON,50,MALE,12/29/1977,METROPOLITAN HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JULIUS,STRANKIS,80,MALE,12/29/1977,273 AVE. P,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RALPH,DANIELS,69,MALE,12/29/1977,104 DUMONT AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANNA,BAKER,80,FEMALE,12/29/1977,METROPOLITAN HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SING YA,LEE,60,UNKNOWN,12/29/1977,365 BROOME ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,BRATTON,62,MALE,12/28/1977,2517 EIGNTH AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,HENDERSON,29,MALE,12/28/1977,405 E 106TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEON,FORTIER,67,MALE,12/28/1977,109 W 45TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,TAYLOR,53,MALE,12/28/1977,HARLEM HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,GIBBON,67,MALE,12/28/1977,546 MIDWOOD ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CONSTANCE,WELLENS,61,FEMALE,12/28/1977,29 E 29TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARION,FRAZIER,54,FEMALE,12/28/1977,235 W 19TH ST.,116,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,45,MALE,12/27/1977,114TH ST. AND ST. NICHOLAS,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERNEST,ROSTA,75,MALE,12/27/1977,3225 BAINBRIDGE AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,WALKER,60,MALE,12/27/1977,546 W 142 ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RICHARD,DREW,62,MALE,12/27/1977,CREEDMOOR PSYCHIATRIC CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"RICHARD, N.",ELLIS,57,MALE,12/27/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,EARL,77,MALE,12/27/1977,791 HICKS ST.,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,FISHER,64,MALE,12/26/1977,160-11 89TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MANUEL,GOMEZ,81,MALE,12/26/1977,BETH ISRAEL MEDICAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VINCENT,SPENCER,41,MALE,12/25/1977,ARTHUR C. LOGAN MEMORIAL HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LORRAINE,WILDER,43,FEMALE,12/25/1977,HARLEM HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VIRGIE,TAYLOR,92,FEMALE,12/25/1977,BRONX-LEBANON HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,DAVIS,22,MALE,12/24/1977,BELLEVUE HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WALTER,THOMPSON,65,MALE,12/24/1977,LONG ISLAND COLLEGE HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,WARNENK,75,MALE,12/24/1977,125 BOWERY,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RUSSELL,MONROE,37,MALE,12/23/1977,HARLEM HOSPITAL CENTER,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,SATTERCAUCASIAN,55,MALE,12/23/1977,LOGAN MEMORIAL HOSPITAL,116,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HOPE,HOPIAK,43,FEMALE,12/23/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"YOLANDA, ROMEO",BANAGAS,38,FEMALE,12/22/1977,JEWISH MEMORIAL HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,65,FEMALE,12/22/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VIRGINIA,TUCCILLI,56,FEMALE,12/22/1977,NEW YORK WESTCHESTER SQUARE MEDICAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ISABEL,MONOGLIAN,83,FEMALE,12/22/1977,CARMEL RICHMOND NURSING HOME,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,SMITH,52,MALE,12/21/1977,KINGS COUNTY HOSPITAL CENTER,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GERTRUDE,PIPPIN,45,FEMALE,12/21/1977,ST. JOHN'S QUEENS HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GRACE,GOTOWENKO,73,FEMALE,12/21/1977,NORTH CENTRAL BRONX HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BLANCA,STIENMAN,87,FEMALE,12/21/1977,211 E 79TH ST.,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,PETERS,55,MALE,12/19/1977,330-W 36TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,ALEXADER,53,MALE,12/19/1977,317 WEST 136TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,SPINA,79,MALE,12/19/1977,UNITY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,MILLER,81,MALE,12/18/1977,KINGSBROOK JEWISH MEDICAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARGARET,SCOTT,69,FEMALE,12/18/1977,147 WEST 131ST ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NIKE,BUSUTIL,59,UNKNOWN,12/18/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEON,KENNEDY,47,MALE,12/17/1977,MONTEFIORE MEDICAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSE,REYES,48,MALE,12/17/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANDREW,VERN,32,MALE,12/17/1977,2166 BROADWAY,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,35,FEMALE,12/17/1977,250 W 100 ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,CROXTON,68,MALE,12/16/1977,255 W 43RD ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,HOLLINS,57,MALE,12/16/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEROY,BURTON,64,MALE,12/15/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARIE,BOMBERG,94,FEMALE,12/15/1977,NEW YORK PRESBYTERIAN HOSPITAL,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VICTOR,DAWLINS,72,MALE,12/14/1977,SYDENHAM HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,DREWERY,40,MALE,12/14/1977,77 HUDSON AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILBUR,KING,50,MALE,12/13/1977,NORTH CENTRAL BRONX HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PEDRO,BYRD,51,MALE,12/13/1977,420 W 42ND ST.,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,BROWN,49,MALE,12/13/1977,BELLEVUE HOSPITAL CENTER,116,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SABRINI,RAPP,67,UNKNOWN,12/13/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DAGAY,HANSEN,82,UNKNOWN,12/13/1977,FLUSHING HOSPITAL MEDICAL CENTER,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,KERNS,74,MALE,12/12/1977,1273 THIRD AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NICK,NORME,75,MALE,12/12/1977,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,ALLEN,90,MALE,12/12/1977,METROPOLITAN HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CURTIS,HUNT,50,MALE,12/11/1977,106-15 UNION HALL ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,EDWARDS,40,MALE,12/11/1977,222 RIVERSIDE DRIVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,MURRAY,87,MALE,12/11/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THOMAS,RUNDO,27,MALE,12/10/1977,729 E 9TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EUGENE,FIGUERO,25,MALE,12/10/1977,145TH ST. AND UNION SQUARE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PEARL,OFILL,43,FEMALE,12/10/1977,MISERICORDIA HOSPITAL MEDICAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,KIRKLAND,65,MALE,12/08/1977,BELLEVUE HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BENJAMEN,JOHNSON,69,MALE,12/08/1977,599 FLUSHING AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JACK,ELLIS,70,MALE,12/08/1977,FLUSHING HOSPITAL MEDICAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEROY,CRUMB,57,MALE,12/08/1977,90-50 161ST ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,25,MALE,12/08/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VIRGIL,PORTER,42,MALE,12/07/1977,BELLEVUE HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,12/06/1977,PIER # 51,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALFRED,MARTIN,63,MALE,12/05/1977,530 W 55TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BETTY,BAMBRICK,47,FEMALE,12/05/1977,REAR OF 160-11 89TH AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DANIEL,GARCIA,53,MALE,12/04/1977,2686 BROADWAY ALLEYWAY,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EGBERT,WILLIAMS,68,MALE,12/03/1977,141 W 142ND ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,BALCERZK,100,MALE,12/03/1977,KINGSBROOK JEWISH MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,LANCASTER,52,MALE,12/02/1977,MOUNT SINAI HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SEYMOUR A.,CAPSTEIN,73,MALE,12/02/1977,200 WEST 79TH ST.,118,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HAROLD,LYNCG,43,MALE,12/01/1977,NEW YORK PRESBYTERIAN HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GOODE,GOODE,70,MALE,12/01/1977,207 W 85 ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,MCWILLY,45,MALE,12/01/1977,56 W 24TH ST.,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NICHOLAS,ANTONIOV,73,MALE,12/01/1977,305 W 85TH ST,132,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EMMA,CRAGIN,89,FEMALE,12/01/1977,PARK CRESENT NURSING HOME,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,RAY,21,MALE,11/30/1977,HARLEM HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THOMAS,KNOWLES,38,MALE,11/30/1977,341 W 145TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VINCENT,CAMPOS,60,MALE,11/29/1977,BELLEVUE HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PHEBIE,BROWN,61,FEMALE,11/29/1977,HOSPITAL FOR JOINT DISEASES,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,ERACLI,67,MALE,11/28/1977,4 W 31ST ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,FINDLEY,74,MALE,11/28/1977,101 BOWERY,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAY,HALL,70,MALE,11/27/1977,NEW YORK DOWNTOWN HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JACK,HERNSTAT,67,MALE,11/26/1977,CONEY ISLAND HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EARL,WALLACE,53,MALE,11/26/1977,QUEENS HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"FRANKLIN, E.",KELSEY,63,MALE,11/26/1977,MOUNT SINAI HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,FISCHERKELLER,79,MALE,11/26/1977,LUTHERAN MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ADELE,KREIG,71,FEMALE,11/26/1977,CUMBERLAND HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARIA,TERRES,52,FEMALE,11/26/1977,HUTCHINSON RIVER PKWAY,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,30,MALE,11/25/1977,103RD ST. AND B'WAY SUBWAY,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MADELINE,MCSWEENY,70,FEMALE,11/25/1977,68 W 10TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,23,FEMALE,11/25/1977,500 ZEREGA AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,MIZELL,77,MALE,11/24/1977,100 PATCHEN AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RUBY,WALSH,89,FEMALE,11/24/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEROY,ROGERS,37,MALE,11/23/1977,CONEY ISLAND HOSPITAL,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HELEN,TAYLOR,85,FEMALE,11/23/1977,INTERBORO GENERAL HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,CRAM,74,MALE,11/22/1977,INTERBORO GENERAL HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DEXTER,JENNSEN,84,MALE,11/22/1977,JEWISH HOME LIFECARE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANCISCO,GUERRIDO,24,MALE,11/22/1977,1846 ANTHONY AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+REBERTO,IRRIZACRY,41,MALE,11/21/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALFRED,SOTT,55,MALE,11/20/1977,835 THIRD AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ULYSESS,FIGUERUAS,42,MALE,11/20/1977,391 E 167TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,55,MALE,11/19/1977,N/B EXIT FRANCIS LEWIS BLVD GRAN. CENTRAL PARKWAY,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERWIN,STEINER,85,MALE,11/19/1977,SUNY DOWNSTATE MEDICAL CENTER,116,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,65,MALE,11/18/1977,F/O 83-08 37TH AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,WOODLEY,68,MALE,11/18/1977,HARLEM HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VIOLA,ROTTMEN,77,FEMALE,11/18/1977,OXFORD NURSERY HOME,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"MARION, ADA",SMITH,49,FEMALE,11/17/1977,BELLEVUE HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THOMAS,ACCOMANDO,63,MALE,11/16/1977,LONG ISLAND COLLEGE HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"ROBERT, B.",UNKNOWN,34,MALE,11/15/1977,315 BOWERY,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WALTER,NOACK,67,MALE,11/15/1977,CUMBERLAND HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RITA,ROSS,25,FEMALE,11/15/1977,311 WEST 45TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,WALLACE,29,MALE,11/14/1977,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARGRET,O'CONNORS,68,FEMALE,11/14/1977,JACOBI MEDICAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HAROLD,MACDERMID,62,MALE,11/13/1977,,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HUMBERTO,MALDOVADO,33,MALE,11/13/1977,BELLEVUE HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,WALLA,59,MALE,11/13/1977,255 W 92ND ST.,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BETTY,JACKSON,82,FEMALE,11/13/1977,322 AND 8TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+KENNETH,GORDEN,62,MALE,11/12/1977,ARTHUR C. LOGAN MEMORIAL HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARY,ANDERSON,65,FEMALE,11/12/1977,MISERICORDIA HOSPITAL MEDICAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,20,FEMALE,11/12/1977,E. 16TH ST. & AVENUE C,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,11/11/1977,AMBEY ROAD,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HOWARD,ADAMS,80,MALE,11/11/1977,ST. JOHN'S QUEENS HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,GABER,42,MALE,11/11/1977,1509 CENTRAL AVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,BALLARD,65,MALE,11/10/1977,140 HESTER ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"THOMAS, J",MULLEN,49,MALE,11/08/1977,356 W 34TH ST,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEE,SMITH,29,MALE,11/08/1977,ELMHURST HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,BRADY,65,MALE,11/08/1977,321 LAFAYETTE ST.,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SADIE,GALLIERS,91,FEMALE,11/08/1977,CREEDMOOR PSYCHIATRIC CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+STEPHANIE,VAJDA,90,FEMALE,11/08/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,20,MALE,11/07/1977,HUDSON RIVER (PIER 98),101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"WILLIAM, JAMES",CRUZ,31,MALE,11/07/1977,ST. CLARE'S HOSPITAL AND HEALTH CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,COSPORT,72,MALE,11/07/1977,LONG ISLAND COLLEGE HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JUDA,SAUNDERS,70,FEMALE,11/07/1977,320 W 34TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANNA,BILLARD,60,FEMALE,11/07/1977,140 W 69TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DARLENE,GRAHAM,52,FEMALE,11/07/1977,128 E 4 TH ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GERALDINE,KENNEDY,75,FEMALE,11/07/1977,23RD ST. AND LEXINGTON AVE,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSE,DELGADO,40,MALE,11/06/1977,NORTH CENTRAL BRONX HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MORRIS,ANDREWS,66,MALE,11/06/1977,BROOKLYN HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,DANA,60,MALE,11/06/1977,ST. CLARE'S HOSPITAL AND HEALTH CENTER,116,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LENA,SCOTT,60,FEMALE,11/06/1977,HARLEM HOSPITAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EARL,FIELDS,66,MALE,11/05/1977,BETH ISRAEL MEDICAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,YEWUSN,70,MALE,11/05/1977,80 E 3RD ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERNEST,GADSON,45,MALE,11/05/1977,JACOBI MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RAMON,ROMAN,93,MALE,11/04/1977,129 AVENUE C,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANDREA,HAMMOND,5,FEMALE,11/04/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RALPH,BALL,53,MALE,11/03/1977,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,40,MALE,11/02/1977,300 YARDS N OF GEORGE WASHINGTON BRIDGE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GRACE,COHN,79,FEMALE,11/02/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DANA,ALLISON,70,FEMALE,11/02/1977,60 E 42ND ST.,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,MALE,11/01/1977,NORTH RIVER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARTHA,CECKER,85,FEMALE,11/01/1977,CONEY ISLAND HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,JOHNSON,25,MALE,10/31/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JEROME,GRIMMEL,54,MALE,10/31/1977,PENINSULA HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALICE,CORLEY,80,FEMALE,10/31/1977,ST. CLARE'S HOSPITAL AND HEALTH CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+AROBELL,ZELT,85,FEMALE,10/31/1977,LEFFERTS GENERAL HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IDA,LETEVRE,71,FEMALE,10/29/1977,ARTHUR C. LOGAN MEMORIAL HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ABBIE,CHERRY,69,FEMALE,10/29/1977,ST. CHARLES HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRED,ZUTZKER,49,MALE,10/28/1977,LEFFERTS GENERAL HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,70,FEMALE,10/28/1977,451 EAST 86TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANGEL,REYES,33,UNKNOWN,10/27/1977,1038 FAILE STREET,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NUBAR,SHAHLIGAN,70,UNKNOWN,10/26/1977,UNKNOWN,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,40,MALE,10/25/1977,CENTRAL PARK ZOO 64TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,PAPPAEDAKOS,95,MALE,10/25/1977,MONTEFIORE MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SYLVIA,NICHOLSON,81,FEMALE,10/25/1977,MOSHOLU PWAY NURSING HOME,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ISACC,ROLLINS,64,MALE,10/24/1977,HILLCREST GENERAL HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MICHAEL,PELCO,60,MALE,10/24/1977,101 BOWERY,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,GREENLEAF,40,MALE,10/24/1977,11 AND 14TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MERCEDES,AMDERSON,31,FEMALE,10/24/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+KATHERINE,ANITA,50,FEMALE,10/22/1977,23RD ST. SUBWAY STATION,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CONNIE,WILLIAMS,29,FEMALE,10/22/1977,105 CARLTON AVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,FRANCIS,44,MALE,10/21/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,JOHNSON,89,MALE,10/21/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,GUMMELS,51,MALE,10/21/1977,ARTHUR C. LOGAN MEMORIAL HOSPITAL,111,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANN,BROWN,47,FEMALE,10/21/1977,BRONX-LEBANON HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GREGORIO,DELGADO,60,MALE,10/20/1977,87TH ST. AND COLUMBUS AVE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANDREW,SCOTT,69,MALE,10/20/1977,COLLEGE NURSING HOME,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HIGRNIO,RAMIREZ,28,MALE,10/20/1977,86 RIDGE ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBIN,SALLEY,28,FEMALE,10/20/1977,HARLEM HOSPITAL CENTER,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,MCCORMICK,70,MALE,10/19/1977,3 EAST 3RD ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NOEL,BROWN,35,MALE,10/18/1977,HARLEM HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,70,MALE,10/18/1977,NEW YORK DOWNTOWN HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,FEMALE,10/18/1977,GREENPOINT HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CALLISLE,BROWN,45,UNKNOWN,10/18/1977,JACOBI MEDICAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CANALE,DAUNT,29,UNKNOWN,10/18/1977,NEW YORK PRESBYTERIAN HOSPITAL,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"EARL, VAN",VLERIN,65,MALE,10/17/1977,"""31-06 36TH AVE, HALLWAY""",101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PORTIA,MILBOURNE,43,FEMALE,10/17/1977,319 WEST 94TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,KING,55,MALE,10/15/1977,QUEENS HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RALPH,STEVENS,55,MALE,10/15/1977,140 HESTOR ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,10/15/1977,102ND ST. WEST DR.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,70,MALE,10/15/1977,NEW YORK DOWNTOWN HOSPITAL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALICIA,MATOS,80,FEMALE,10/15/1977,201 WEST 93RD ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LIOS,LANDERSON,54,UNKNOWN,10/15/1977,MANHASSET L.T.,127,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOE,DAVIS,67,MALE,10/14/1977,ST. JOHN'S QUEENS HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,SHULMAN,85,MALE,10/14/1977,UNKNOWN,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LANE,EVELYN,59,FEMALE,10/14/1977,230 DOFFIELD ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANTHONY,JAVA,73,MALE,10/13/1977,WEST 86TH ST. AND BROADWAY I.R.T.,112,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEO,JUCK,75,MALE,10/12/1977,528 W 123RD ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JULIUS,JACKSON,52,MALE,10/12/1977,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,SUMPTEN,75,MALE,10/11/1977,JEWISH HOME LIFECARE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,MALE,10/11/1977,92 BOWERY ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LUTHER,WASHINGTON,49,MALE,10/11/1977,CALVARY HOSPITAL,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"ALFRED, E.",RAMIREZ,60,MALE,10/10/1977,138 ORCHARD ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LARRY,BARNEY,72,MALE,10/10/1977,HOSPITAL FOR JOINT DISEASES,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,BAKER,94,MALE,10/10/1977,BRONX MUNICIPAL HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ELIZABETH,ROGALSKI,68,FEMALE,10/10/1977,160 WEST 87TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,35,FEMALE,10/09/1977,422 11TH AVE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALFREDO,ORTIZ,25,MALE,10/08/1977,315 BOWERY,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANTHONY,ARMENDEZ,55,MALE,10/08/1977,CALVARY HOSPITAL,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ERIC,PEARSON,76,MALE,10/06/1977,BELLEVUE HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"FRED, JR",WALSH,63,MALE,10/06/1977,NEW YORK DOWNTOWN HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEE,POWE,62,MALE,10/06/1977,BELLEVUE HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JULIUS,MATTHEWS,77,MALE,10/06/1977,BELLEVUE HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,45,FEMALE,10/05/1977,VACANT LOTBROOKVILLE BLVD,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROSA,NEISS,51,FEMALE,10/04/1977,,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DEBRA,SEVEREID,70,FEMALE,10/04/1977,518 EAST 5TH ST. NYC,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+COLON,JESUS,40,MALE,10/03/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LOUIS,GRAY,71,MALE,10/03/1977,HILLCREST GENERAL HOSPITAL,104,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JEFFERY,HOLLOWAY,28,MALE,10/02/1977,357 W 29TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,30,MALE,10/02/1977,HARLEM RIVER DRIVE AT 143RD ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANTHONY,JOHNSON,22,MALE,10/02/1977,RIKERS ISLAND HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALICE,PAUL,60,FEMALE,10/02/1977,LOGAN MEMORIAL HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,FEMALE,10/02/1977,EAST RIVER SOUNVIEW,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JUAN,VALDEZ,57,MALE,10/01/1977,963 PROSPECT AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BELLE,GORMAN,82,FEMALE,10/01/1977,CALVARY HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FLORENCE,CAIN,55,FEMALE,10/01/1977,7 ALBANY AVE,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,MALE,09/29/1977,NEW YORK DOWNTOWN HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSE,RIVERA,43,MALE,09/29/1977,R/O 1975 WEST CHESTER AVE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GIL,VALLE,20,MALE,09/28/1977,353 AMSTERDAM AVE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ISABELLE,ROBINSON,58,FEMALE,09/28/1977,306 W 114TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALBERT,SCOTT,45,MALE,09/27/1977,603 W 184 ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HILDING,ECKLAND,83,UNKNOWN,09/27/1977,DOCTOR'S HOSPITAL OF STATEN ISLAND,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PEARL,PHILLIPS,85,FEMALE,09/24/1977,PARK CRESENT NURSING HOME,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MELVIN,JOUNG,61,MALE,09/21/1977,ST. CHARLES HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,70,MALE,09/21/1977,PARK AVE RYERSON ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ARTHUR,EDWARDS,57,MALE,09/20/1977,HOSPITAL FOR JOINT DISEASES,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,STEPDENS,87,MALE,09/20/1977,HILLCREST GENERAL HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,25,FEMALE,09/20/1977,149TH ST. HUDSON RIVER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,65,MALE,09/19/1977,I/F/O 28 LAIGHT ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARY,OTHO,59,FEMALE,09/18/1977,CONEY ISLAND HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EMMA,HENLEY,60,FEMALE,09/18/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RAYMOND,JONES,47,MALE,09/17/1977,W 28TH ST. AND 8TH AVE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPHINE,JAUNREK,82,MALE,09/17/1977,MOUNT SINAI HOSPITAL,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HILDA,ROBINSON,67,FEMALE,09/16/1977,SYDENHAM HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CARLOS,MELENDEZ,33,MALE,09/15/1977,ST. CLARE'S HOSPITAL AND HEALTH CENTER,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,SMITH,87,MALE,09/15/1977,ST. JOHN'S EPISCOPAL HOSPITAL,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GUS,JOHNSON,77,MALE,09/14/1977,1142 FIRST AVE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ARTHUR,MYERS,81,MALE,09/14/1977,GREENPOINT HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,40,MALE,09/13/1977,216 ELIZABETH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALEXIS,GRAMA,59,FEMALE,09/13/1977,507 WEST ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROGER,WILSON,39,MALE,09/12/1977,125 BOWERY ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,30,MALE,09/12/1977,PEIR 14 VESEY ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARCO,LUISA,61,MALE,09/11/1977,HUSED MANN H. FOR ADULTS,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,HOLLY,67,MALE,09/09/1977,316TH WEST 112TH STREET,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"VIRGINIA, Z.",STIGALL,62,FEMALE,09/09/1977,111 W 16 ST.,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANNA,KAMINSKY,73,FEMALE,09/09/1977,15-09 CENTRAL AVE,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,DONEVANT,36,MALE,09/07/1977,EAST RIVER AT 53RD ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,CARNESI,85,MALE,09/06/1977,317 W 95 ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THEODOR,KORDT,72,MALE,09/06/1977,222 RIVERSIDE DRIVE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BEATRICE,WRIGHT,67,FEMALE,09/06/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"ERNEST, L.",STOH,63,MALE,09/04/1977,197 BOWERY STREET,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANTHONY,DITOMA,50,MALE,09/04/1977,319 W. 48TH ST. REAR LOBBY,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+STEVE,HOUNG,69,MALE,09/04/1977,BETH ISRAEL MEDICAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,40,MALE,09/03/1977,7 PRINCE ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EUGENE,GONZALEZ,74,MALE,09/03/1977,141 WEST 110TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MICHAEL,PITT,35,MALE,09/03/1977,ST. CLARE'S HOSPITAL AND HEALTH CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HERBERT,WOODLEY,75,MALE,09/03/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,HOWELL,79,MALE,09/02/1977,304 WEST 30TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GERALD,LAPONTE,49,MALE,09/02/1977,FORSYTH AND DELANCEY ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,20,FEMALE,09/02/1977,2 SHELT ROAD IN WATER OFF PIER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIE MAE,STALEY,44,FEMALE,09/02/1977,QUEENS HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GERTRUDE,STEWART,89,FEMALE,09/02/1977,ELMHURST HOSPITAL CENTER,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NILES,MARIANNE,80,MALE,09/01/1977,MOSHOLU PARKWAY N. H.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DAVID,BOOTH,49,MALE,09/01/1977,1445 ST. MARRSITOE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN MADURO,REINA,103,MALE,08/30/1977,57 LINCOLN PLACE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,PETRUSHKA,78,MALE,08/30/1977,BELLEVUE HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CLARA,MARTIN,77,FEMALE,08/30/1977,PARK CRESENT NURSING HOME,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MAMIE,GORDON,47,FEMALE,08/30/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CLIFFORD,FITZGERALD,69,MALE,08/29/1977,235 MT. HOPE PLACE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"JAMES, PATRICK",COYLE,43,MALE,08/29/1977,FT OF 2311 LORING PL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LUIS,BELERAVE,22,MALE,08/29/1977,14 LINDEN ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,25,MALE,08/28/1977,WEST 202ND ST. AND HARLEM RIVER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SAM,WRIGHT,30,MALE,08/28/1977,HARLEM HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HAROLD,HYANES,69,MALE,08/28/1977,CONEY ISLAND HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FREDERICK,STEPTER,45,MALE,08/26/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PATRICIA,FLYNN,48,FEMALE,08/26/1977,BRONX MUNICIPAL HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,BULIN,81,MALE,08/25/1977,1010 UNIVERISTY AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEROY,UNKNOWN,76,MALE,08/24/1977,NORTH CENTRAL BRONX HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANTHONY,MARRONE,63,MALE,08/24/1977,1910 BENSON AVE,105,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DEBRA,WELSON,30,FEMALE,08/24/1977,REAR OF 362 W 117TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+YON,NIERWERKOUSKI,80,UNKNOWN,08/24/1977,14 HEYSON ROAD,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DEREK,BANKS,55,MALE,08/22/1977,BELLEVUE HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+VIOLA,DAVIS,63,FEMALE,08/22/1977,759 JENNINGS ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CATHERINE,SHAW,67,FEMALE,08/22/1977,CARLTON NURSING HOME,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARK,GING,71,MALE,08/21/1977,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NELSON,ORTIZ,29,MALE,08/20/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANTONIA,PEREZ,52,FEMALE,08/20/1977,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,55,MALE,08/19/1977,WEST 179TH ST. & HARLEM RIVER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GEORGE,VATH,84,MALE,08/19/1977,30-55 43RD ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MONICA,SERGOTT,71,FEMALE,08/17/1977,109-23 71ST RD,121,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSE,MALAVE,45,MALE,08/16/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,CLARK,37,MALE,08/14/1977,315W. 25TH ST. PARK BENCH,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LUIS,ALMODOVAR,27,MALE,08/14/1977,METROPOLITAN HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+KENNETH,POUCHIE,58,MALE,08/13/1977,148 8TH AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,20,FEMALE,08/13/1977,ARTHUR C. LOGAN MEMORIAL HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RALPH,MCLEAN-EMONS,28,MALE,08/12/1977,NEW YORK DOWNTOWN HOSPITAL,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+REBECCA,PORTER,60,FEMALE,08/12/1977,CUMBERLAND HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,MILLER,50,MALE,08/11/1977,61 LEXINGTON AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,30,MALE,08/11/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIE,SUMMERS,83,MALE,08/10/1977,MONTEFIORE MEDICAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MICHAEL,ROGOLEFF,75,MALE,08/09/1977,611 WEST 137TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIE,ROKES,60,MALE,08/09/1977,ARTHUR C. LOGAN MEMORIAL HOSPITAL,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EVASIO,RIPORIO,81,MALE,08/08/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THOMAS,LAWROW,69,MALE,08/08/1977,626 EAST 9TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHHNY,JONES,56,MALE,08/08/1977,BELLEVUE HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ARNOLD,PROUJANSKY,60,MALE,08/08/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALBERT,BREM,82,MALE,08/08/1977,240 EAST 19TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GLEN,POPE,65,MALE,08/08/1977,1674 3RD AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LITTLE,LORENZO,65,MALE,08/08/1977,BENEATH BROOKLYN BRIDGE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RAYMOND,AUCITO,57,MALE,08/07/1977,19 WEST 31ST ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HUNTLEY,THOMPSON,26,MALE,08/07/1977,694 EAST 161 ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LESTER,HUMPHREY,50,MALE,08/06/1977,NEW YORK DOWNTOWN HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,20,FEMALE,08/06/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,GRAULICH,70,MALE,08/05/1977,NEW YORK DOWNTOWN HOSPITAL,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALFANSO,BURRELL,19,MALE,08/05/1977,R/O 121-40 FARMERS BLVD (NEAR YARD),101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NUMEZ,SERFERINO,46,MALE,08/04/1977,R/O 670 BROADWAY,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,SIMPSON,76,MALE,08/04/1977,ELMHURST HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JEANNE,KERSNER,50,FEMALE,08/04/1977,1295 SHERIDAN AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SADIE,MAYBE,76,FEMALE,08/04/1977,GREEN PK. CARE CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NATHANIEL,BURNETT,71,MALE,08/03/1977,HARLEM HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,08/03/1977,711 PARK PL,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JANE,UNKNOWN,66,FEMALE,08/03/1977,NORTH CENTRAL BRONX HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,UNKNOWN,N/A,MALE,08/02/1977,N RIVER A/ WEST ST. AND WATTS ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ARNOLD,GOLDWATER,97,MALE,08/02/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,109,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MARGIE,BARBATA,59,FEMALE,08/02/1977,SAINT VINCENT'S CATHOLIC MEDICAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FOWLER,FREEMAN,58,MALE,08/01/1977,BMT SUBWAY STATION 23 ST AND BROADWAY,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+KACHUR,FREODOR,87,MALE,08/01/1977,160-70 MADISON AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,UNKNOWN,20,MALE,08/01/1977,HARLEM RIVER BETWEEN 159TH 160TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,50,MALE,08/01/1977,FRONT OF 661 W.179TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,WILLIAMS,89,MALE,08/01/1977,STEVEN MARK HOME FOR ADULTS,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SING,LEUNG,70,UNKNOWN,08/01/1977,20 AVE. A,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JEFFERY,CONGTTLIO,60,MALE,07/31/1977,LENOX HILL HOSPITAL,143,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALBERT,GIANNOTTASIO,82,MALE,07/30/1977,226 WEST 50TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IDA,ARMSTRONG,67,FEMALE,07/30/1977,ST. JOHN'S QUEENS HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JIMMY,JONES,50,MALE,07/29/1977,CALVARY HOSPITAL,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEON,BAILEY,70,MALE,07/28/1977,509 W 152 ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CARL,PAINE,68,MALE,07/28/1977,457 WEST 51ST ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PEARL,WOODEN,60,FEMALE,07/28/1977,295 BENNETT AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSNEPH,UNKNOWN,50,MALE,07/27/1977,604 W 135 ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BILLIE,THOMAS,67,MALE,07/27/1977,BRONX MUNICIPAL HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BENNY,WILLIAMS,76,MALE,07/27/1977,MONTEFIORE MEDICAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CARMEN,MARQUEZ,50,FEMALE,07/27/1977,514 TINTON AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GERTIE,FORD,80,FEMALE,07/27/1977,CORNER OF WASH. AVE AND CARROLL ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,UNKNOWN,50,MALE,07/26/1977,14TH ST. UNION STATION,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,SCALESI,69,MALE,07/25/1977,117 W 70 ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IRWIN,HARR,75,MALE,07/25/1977,127 WEST 43RD ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GLORIA,BOURNE,27,FEMALE,07/25/1977,,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+AUGUSTINE,ZUDA,35,FEMALE,07/25/1977,I/F/O 40 E 20 ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ROBERT,SWAN,43,MALE,07/24/1977,HARLEM HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,EAST,64,MALE,07/24/1977,HARLEM HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DONALD,JACOBSON,43,MALE,07/24/1977,101 LEXINGTON AVE,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+TRIBUCIO,VALASQUEZ,60,MALE,07/23/1977,METROPOLITAN HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HERMAN,SCHRAUM,69,MALE,07/22/1977,348 W 46TH ST,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LLOYD,SCOTT,55,MALE,07/22/1977,1660 MORRIS AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ADOLQH KEISLER,BOOTREE,72,MALE,07/22/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DUNKIN,ROBERT,61,MALE,07/22/1977,NORTH CENTRAL BRONX HOSPITAL,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,HARRIS,62,MALE,07/22/1977,890 PARK PLACE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ISAAC,FAIR,41,MALE,07/22/1977,474 NAVERLY AVE,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+THOMAS,POWERS,80,MALE,07/21/1977,143 BOWERY,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EVELYN,ROSERIO,42,FEMALE,07/21/1977,REAR OF 1240 E 109TH ST,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MUKOKA,MYCHAIKO,55,UNKNOWN,07/21/1977,"""N.Y. HARBOR, UPPERBAY BOUY # 30""",101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,CRAWFORD,61,MALE,07/20/1977,507 WEST STREET,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANNA,BALANO,78,FEMALE,07/20/1977,LOGAN MEMORIAL HOSPITAL,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LU LU,MERRICK,86,FEMALE,07/20/1977,PENINSULA HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,BEAKER,30,MALE,07/19/1977,507 W 171ST ST,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,30,MALE,07/19/1977,50 YRD. SO OF SO FERRY TERM,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,ROBINSON,60,MALE,07/19/1977,GREENPOINT HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MORRIS,MITTLEMAN,70,MALE,07/19/1977,35-51 95TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,FOREMAN,37,UNKNOWN,07/19/1977,302 W 112 ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILFREDO,TORO,41,MALE,07/18/1977,METROPOLITAN HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,42,MALE,07/18/1977,BOWERY 24/LON BAY,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GUSTAVE,GARDNER,70,MALE,07/18/1977,104 WEST 43RD ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,GOCTZ,80,MALE,07/16/1977,1372 YORK AV,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSE,LEON,40,MALE,07/16/1977,201 W 87TH ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ATHAN,MITSIALLES,85,UNKNOWN,07/16/1977,SEAPORT MANOR,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,CUMMING,45,MALE,07/15/1977,19 PULASKI ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HERMAN,ENGLER,88,MALE,07/14/1977,BRONX MUNICIPAL HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,HOWARD,45,MALE,07/13/1977,127 CHAMBERS ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LAVERNE,CRUSON,63,FEMALE,07/13/1977,256 WADSWORTH AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FELICIANA,MATOS,91,FEMALE,07/13/1977,JACOBI MEDICAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANN,ROBERSON,62,FEMALE,07/13/1977,QUEENS HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HARALD,BROWN,49,MALE,07/12/1977,HOSPITAL FOR JOINT DISEASES,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HELEN,MILES,87,FEMALE,07/11/1977,KINGS COUNTY HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,35,MALE,07/09/1977,FIRMWATER ROOSEVELT JANET PL.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IRENE,BOLIN,82,FEMALE,07/06/1977,RESORT NURSING HOME,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANNIE,SMITH,77,FEMALE,07/06/1977,527 W 143RD ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GLADY,OWENS,70,MALE,07/05/1977,412 7TH AVE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,GOLDEN,77,MALE,07/03/1977,JACOBI MEDICAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BENJAMIN,BENNETT,60,MALE,07/02/1977,UNITY HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HARRY,SIMMONS,60,MALE,07/02/1977,HARLEM HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANCIS,CARSON,78,UNKNOWN,07/02/1977,DEWITT NURSING HOME,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SAM,COVINGTON,69,MALE,07/01/1977,45 W 139TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALFRED,BAKER,57,MALE,06/30/1977,STATEN ISLAND UNIVERSITY HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+"WONG, M.",DOO,69,MALE,06/30/1977,3 MILES S. OF ROCKLAWAY JETTY,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DORTHY,COWELL,72,FEMALE,06/29/1977,UNKNOWN,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,UNKNOWN,35,FEMALE,06/29/1977,BATTERY PARK FERRY SLIP,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,MOUNT,74,MALE,06/28/1977,1508 CENTRAL AVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAMES,SAUNDERS,67,MALE,06/28/1977,482 HINSDALE ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MIRIAN,BARROW,48,FEMALE,06/28/1977,132 WEST 45TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FANNEY,BERMAN,70,FEMALE,06/28/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALBERT,IRWIN,63,MALE,06/27/1977,230 E 4TH ST,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DORTHY,CARROL,69,FEMALE,06/27/1977,BELLEVUE HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEROY,YOUNG,45,MALE,06/26/1977,9 W. 119TH ST,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,KERR,90,MALE,06/26/1977,125TH W. 166TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRED,SPIER,90,MALE,06/26/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CLAUDE,DAVIS,46,MALE,06/24/1977,JEWISH HOME LIFECARE,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+MICHAEL,FISHER,38,MALE,06/23/1977,336 51ST ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LARRY,JOHNSON,30,MALE,06/22/1977,IND STA. TRACKS LAFFETTE BLVD,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LOUISE,AMOUR,61,FEMALE,06/22/1977,LONG ISLAND JEWISH MEDICAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+OPHELIA,LEE,37,FEMALE,06/21/1977,HARLEM HOSPITAL CENTER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CLYDE,BLAKENEY,65,MALE,06/20/1977,BRONX-LEBANON HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BARBARA,BRIDGEWATER,40,FEMALE,06/17/1977,83 FT. GREENE PL.,106,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+RAYMOND,SANCHEZ,35,MALE,06/16/1977,BARROW AND WEST ST.,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANCIS,RAYFORD,61,UNKNOWN,06/15/1977,CUMBERLAND HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,20,FEMALE,06/13/1977,APP 110 KOSCIUSKO ST (LOT),101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+BOBBY,JORDON,29,MALE,06/05/1977,IN WATER OF W. 22ND ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,20,MALE,06/03/1977,WATER OFF 58TH ST. PIER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARKS,WOLK,92,MALE,06/02/1977,PENINSULA HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,WYATT,82,MALE,05/16/1977,ARTHUR C. LOGAN MEMORIAL HOSPITAL,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,WRIGHT,62,MALE,05/16/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DAVID,GREEN,44,MALE,05/15/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LEAN,SIEGAL,75,UNKNOWN,05/15/1977,METROPOLITAN HOSPITAL CENTER,127,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ANTHONY,BAGLEY,24,MALE,05/13/1977,475 CENTRAL PARK WEST,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPH,TROSTER,70,MALE,05/13/1977,230 E 51ST ST.,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,MALE,05/07/1977,E. RIVER SHORE BLVD,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,N/A,MALE,05/06/1977,I/F/O 106 W 56TH ST,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JUILO,HERNADEZ,23,MALE,05/02/1977,652 ST. MARY ST,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JAN,OSSOSKI,52,FEMALE,05/02/1977,BELLEVUE HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,GIBSON,41,MALE,05/01/1977,HARLEM HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPHINE,LEONARD,80,FEMALE,05/01/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GRACE,DAWSOM,72,FEMALE,05/01/1977,BELLEVUE HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+NEVILLE,HARPER,76,MALE,04/30/1977,BELLEVUE HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,LUIS,60,MALE,04/30/1977,COLUMBIA MEMORIAL HOSPITAL,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,25,MALE,04/26/1977,S.W. COR IF GOV TS PEIR 44,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SAM,LUSKY,76,MALE,04/23/1977,PENINSULA HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WALTER,ROBINSON,52,MALE,04/20/1977,254 WEST 98TH ST.,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+SADIE,REICHGOTT,72,FEMALE,04/19/1977,NEW YORK DOWNTOWN HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+DAVID,KINBARN,56,MALE,04/14/1977,NEW YORK DOWNTOWN HOSPITAL,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EUGENE,KELLER,52,MALE,04/10/1977,BELLEVUE HOSPITAL CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IDA,SMITH,63,FEMALE,04/10/1977,COLER-GOLDWATER SPECIALTY HOSPITAL,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+TINA,MITRIUK,92,FEMALE,04/10/1977,PARKWAY HOSPITAL,124,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,GRAHAM,49,MALE,04/09/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,58,FEMALE,04/04/1977,ERIE BASIN IN WATER,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,20,FEMALE,03/30/1977,FD. BEACH 49TH ST. & JAMACA BAY,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CLARISSA,JOHNSON,46,FEMALE,03/27/1977,CALVARY HOSPITAL,142,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOSEPHINE,HOLMES,70,FEMALE,03/22/1977,47 E 87 ST.,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JOHN,PANTER,65,MALE,03/20/1977,83 BOWERY,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HARRY,OLIVER,30,MALE,03/17/1977,CUMBERLAND HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,40,MALE,03/17/1977,160 CENTRAL PARK NORTH,102,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+IDA,EDMOND,70,FEMALE,03/17/1977,NEW YORK METHODIST HOSPITAL,101,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+OLGA,ROSNER,95,FEMALE,03/16/1977,ST. LUKE'S-ROOSEVELT HOSPITAL CENTER,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+EDWARD,KING,69,MALE,03/13/1977,NORTH SHORE UNIVERSITY HOSPITAL,123,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,60,MALE,03/11/1977,ON BEACH AT BEACH 142ST,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+N/A,N/A,20,FEMALE,03/08/1977,FD. REAR OF 91-18 BEACH CH DRIVE,100,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+AUSUBEL,HERMAN,56,UNKNOWN,03/03/1977,35 CLAREMONT AVE,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+LOUISE,EHRLICK,74,FEMALE,02/10/1977,NEW YORK METHODIST HOSPITAL,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+FRANK,THUNE,66,MALE,02/05/1977,JEWISH MEMORIAL HOSPITAL,107,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+WILLIAM,DAVIS,70,MALE,02/02/1977,342 WEST 71ST ST.,108,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES E.,KELLY,44,MALE,02/02/1977,356 WEST 34TH ST.,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HORTENSE,ROGERS,79,UNKNOWN,02/01/1977,DEWITT NURSING HOME,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+HENRY,CASSANDRA,79,MALE,01/27/1977,NEW YORK DOWNTOWN HOSPITAL,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+JUAN,VASQUEZ,45,MALE,01/26/1977,LINCOLN MEDICAL AND MENTAL HEALTH CENTER,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+CHARLES,TRAVIS,80,MALE,01/25/1977,125 E 17TH ST.,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+PAUL,FOX,71,MALE,01/24/1977,BROOKLYN HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ELIZABETH,EUBOULES,61,FEMALE,01/19/1977,HARLEM HOSPITAL CENTER,103,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+GLADYS,FUMBINNER,84,FEMALE,01/18/1977,110 VALENTINE LANE,127,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+ALGIE,GIDDINGS,59,UNKNOWN,01/15/1977,NEW YORK PRESBYTERIAN HOSPITAL,110,N/A,Hart Island,09/04/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf

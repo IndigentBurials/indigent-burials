@@ -1,0 +1,28 @@
+,FName,LName,Age,Sex,DOD,POD,PlotNo,CaseNo,Jurisdiction,DateScraped,SourceURL
+0,WILLIAM,ABREU,66,MALE,05/13/2020,NEW YORK PREBYTERIAN HOSPITAL,405,M20-045710,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+1,DONALD,DUPRE,55,MALE,05/13/2020,BROOKDALE UNIVERSATY HOSPITAL AND MEDICAL CENTER,406,K20-044506,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+2,ALEXANDER,LEONTIEV,69,MALE,05/13/2020,MOUNT SINAI QUEENS,412,Q20-045072,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+3,VICTOR EDWIN,SLOBODA,63,MALE,05/13/2020,"128 BRIGHTON BEACH,BROOKLYN,NY,11235",413,K20-044590,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+4,DAVID V,CARTER,72,MALE,05/13/2020,BROOKDALE UNIVERSATY HOSPITAL AND MEDICAL CENTER,413,K20-044364,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+5,CATHERINE,HODGE,88,FEMALE,05/13/2020,"950 UNION AVE #H7,BRONX,NY,10459",404,B20-044483,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+6,ANDREA J,MERCEDES,95,FEMALE,05/13/2020,NEW YORK PREBYTERIAN HOSPITAL,405,M20-044339,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+7,BARBARA LEE,WOODS,73,FEMALE,05/13/2020,"141 TOMPKINS AVE,BROOKLYN,NY,11206",411,K20-044583,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+8,SHIU LUN,LEE,85,MALE,05/12/2020,"55 PIERREPONT ST #8D,BROOKLYN,NY,11201",404,K20-044082,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+9,MIGUEL,TORRENT-ORTIZ,82,MALE,05/12/2020,"750 E166TH,BRONX,NY,10456",406,B20-044326,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+10,MARK A,BARTLEY,64,MALE,05/12/2020,"601 W 142ND ST,MANHATTAN,NY,10031",409,M20-044311,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+11,FRANCIS,SORILLO,79,MALE,05/12/2020,NEW YORK PREBYTERIAN HOSPITAL,411,M20-044314,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+12,VICTOR,CORTES,59,MALE,05/12/2020,"140 W 140TH ST,MANHATTAN,NY,10030",411,M20-043964,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+13,JAVIER,TORO,61,MALE,05/12/2020,JACOBI MEDICAL CENTER,412,B20-044260,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+14,HAPPY O,OVWIGHO,47,MALE,05/12/2020,"768 E 226TH STREET,BRONX,NY,10466",422,B20-044254,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+15,MARIA,LOPEZ,62,FEMALE,05/12/2020,COLER NURSING FACILITY,409,M20-044137,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+16,RUTH,BROWN,88,FEMALE,05/12/2020,RIVERDALE NURSING HOME,411,B20-044236,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+17,ARLENE,WALKER,82,FEMALE,05/12/2020,"595 TRINITY AVE,BRONX,NY,10455",415,B20-044061,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+18,JOHN S,ABRAMS,71,MALE,05/11/2020,"760 MELROSE AVE,BRONX,NY,10451",404,B20-043844,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+19,JAVIER,JUAREZ,40,MALE,05/11/2020,ELMHURST HOSPITAL CENTER,411,Q20-043943,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+20,WILSON,BORREROHERNANDEZ,71,MALE,05/11/2020,ISABELLA NURSING HOME,411,M20-044062,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+21,GENE RAYMOND,JOHNSON,70,MALE,05/11/2020,"1715 BRUCKNER BLVD,BRONX,NY,10472",418,B20-043636,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+22,PETRONILA,HERNANDEZ,87,FEMALE,05/11/2020,JACK D. WEILER HOSPITAL,409,B20-043754,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+23,DIANE,RUGGIERO,65,FEMALE,05/11/2020,EASTCHESTER REHABILITATION AND HEALTH CARE CENTER,411,B20-043769,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+24,MELVIN L,HOWARD,63,MALE,05/10/2020,JACOBI MEDICAL CENTER,414,B20-043552,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+25,LAURA,BROOKS,67,FEMALE,05/10/2020,"934 CARROLL ST,BROOKLYN,NY,11225",405,K20-043418,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
+26,UNKNOWN,UNKNOWN,60,FEMALE,05/10/2020,"824 60TH ST,BROOKLYN,NY,11220",422,K20-043484,Hart Island,08/23/2022,https://a073-hartisland-web.nyc.gov/hartisland/pages/home/home.jsf
