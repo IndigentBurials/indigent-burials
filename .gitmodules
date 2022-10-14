@@ -1,0 +1,3 @@
+[submodule "web-scraping/hart-island-web-scraper"]
+	path = web-scraping/hart-island-web-scraper
+	url = https://github.com/IndigentBurials/hart-island-web-scraper.git
