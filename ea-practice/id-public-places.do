@@ -10,6 +10,8 @@ replace locationofdeath = "The Bronx, NY, 10470" ///
 	if locationofdeath == "BRONX,NY,10470"
 replace publicplace = 1 if locationofdeath == "The Bronx, NY, 10470"
 
+* Line added to test whether I'm understanding how to work with GitHub
+
 replace locationofdeath = "The Bronx, NY, 10475" ///
 	if locationofdeath == "BRONX,NY,10475"
 replace publicplace = 1 if locationofdeath == "The Bronx, NY, 10475"
