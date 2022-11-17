@@ -1,0 +1,105 @@
+---
+title: "Public Burial"
+output:
+  html_document:
+    df_print: paged
+  html_notebook: default
+  word_document: default
+  pdf_document: default
+---
+
+
+#loading packages
+```{r}
+library(lubridate)
+library(dplyr)
+library(table1)     #for table 1
+library("ggplot2")
+```
+
+
+#bringing in data
+```{r}
+indigent_burials <- read.csv("C:/Users/jenbr/Dropbox/York/Papers/Indigent_burial/Public_burial_r_project/indigent-burials-JB.csv")
+```
+
+#cleaning data
+
+```{r}
+
+indigent_burials$Jurisdiction<-factor(indigent_burials$Jurisdiction)
+
+
+indigent_burials <- indigent_burials %>%
+                   mutate(Jurisdiction = factor(Jurisdiction) %>%
+                     recode_factor(
+                       "Bernalillo County, New Mexico" = "Bernalillo County, NM",
+                       "Hart Island" = "Hart Island, NYC",
+                       "Los Angeles, California" = "Los Angeles, CA",
+                       "Dignity Memorial"="Dignity Memorial (Veterans)",
+                       "King County" = "King County, WA",
+                       "National Missing and Unidentified Persons System" = "NamUs",
+                       "Yakima County" = "Yakima County,WA"))
+
+
+#cleaning sex
+
+# indigent_burials$Sex[indigent_burials$Sex=='f' | indigent_burials$Sex== 'F' |  indigent_burials$Sex== 'F L-S-']<-'Female'
+# indigent_burials$Sex[indigent_burials$Sex=='m' | indigent_burials$Sex== 'M' |  indigent_burials$Sex== 'M |' |  indigent_burials$Sex== 'M|' |  indigent_burials$Sex== 'ML -FT' |  indigent_burials$Sex== 'MB' |  indigent_burials$Sex== 'ML -G' |  indigent_burials$Sex== 'MM']<-'Male'
+# indigent_burials$Sex<-factor(indigent_burials$Sex, levels=c("Male", "Female"))
+
+#cleaning age to make all infants are age 0
+# indigent_burials$Age2 <- gsub('[a-zA-Z]', 'infant', indigent_burials$Age)
+# indigent_burials$Age2[grepl('infant', indigent_burials$Age2)]<-0
+# indigent_burials$Age2<-as.numeric(indigent_burials$Age2)
+# indigent_burials$Age2[indigent_burials$Age2 > 100 | indigent_burials$Age2 <0]<-NA
+
+
+```
+
+#tables
+
+```{r}
+
+indigent_burials$Age2<-indigent_burials$Age
+indigent_burials$Age2[indigent_burials$Age==-9]<-NA
+indigent_burials$Age2<-as.numeric(indigent_burials$Age2)
+
+table1(~ Age2 + Sex | Jurisdiction, data=indigent_burials)
+```
+
+
+#bar charts
+```{r}
+
+# counts <- table(indigent_burials$death_year[indigent_burials$death_year > 1990 & indigent_burials$BD_year<2022])
+# barplot(counts, main="Public burials over time",
+#    xlab="Year of Burial")
+# 
+
+
+
+d <- indigent_burials %>% filter(indigent_burials$Jurisdiction== 'Fresno, CA')
+d <- droplevels(d)
+  
+tbl <- with(d, table(Sex, Jurisdiction))
+
+barplot(tbl, beside = TRUE, legend = TRUE,
+   las=2, cex.names=.8)
+
+counts_sex <- table(indigent_burials$Sex)
+counts_jurisdiction <- table(indigent_burials$Jurisdiction)
+barplot(counts_sex=counts_jurisdiction, main="Public burials by sex",
+   xlab="Sex", beside=TRUE)
+
+counts <- table(indigent_burials$Jurisdiction)
+par(mar=c(10,18,4,1)+.1)
+barplot(counts, main="Public burials by jurisdiction",
+   las=2, cex.names=.8, horiz = TRUE)
+
+
+
+
+
+
+```
