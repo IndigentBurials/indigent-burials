@@ -1,0 +1,126 @@
+﻿LNAME,FNAME,MNAME,DOB,DOD,DOI,CEMETERY,CSITEID,CAUSEDEATH,MEMO,LASTRESID,INCHARGE,SEX,SUFNAME,DOBYR,DOBMON,DOBDAY,DODYR,DODMON,DODDAY,AGEYR,AGEMON,AGEDAY,DOIYR,DOIMON,DOIDAY,PLBIRTH,MSTATUS,TIMEINT,CREMCODE,DISINTERCODE,DEATH_CERT_NUM,LastModifiedDate
+Buirge,Barbara,W,5/2/04,5/3/94,5/23/18,RIV,RIV_7_L_17,,,"Billings, MT",DAHL,F,,1904,5,2,1994,5,3,90,NULL,NULL,2018,5,23,"Princeton, MO",,10:00:AM,x,,NULL,NULL
+Howell,Charles,Olan,8/13/46,11/16/11,5/23/18,RIV,RIV_7_M_17,,,"Billings, MT",DAHL,M,,1946,8,13,2011,11,16,65,NULL,NULL,2018,5,23,Baltimore ME,,10:00 AM,x,,NULL,NULL
+Hughes,Mary,Jane,1/4/27,2/13/82,5/23/18,RIV,RIV_7_A_16,,,"Billings, MT",DAHL,F,,1927,1,4,1982,2,13,55,NULL,NULL,2018,5,23,"Crawford, NE",,10:00 AM,,,NULL,NULL
+Linville,Miriam,E,8/30/07,7/23/81,5/23/18,RIV,RIV_7_B_16,,,"Billings, MT",DAHL,F,,1907,8,30,1981,7,23,74,NULL,NULL,2018,5,23,"Boone, IA",,10:00 AM,x,,NULL,NULL
+Milliken,Gail,,2/5/19,12/23/87,5/23/18,RIV,RIV_7_C_16,,,"SanDiego, CA",,F,,1919,2,5,1987,12,23,68,NULL,NULL,2018,5,23,,,10:00 AM,x,,NULL,NULL
+Woolman,Donna,Patricia,5/6/47,4/25/02,5/23/18,RIV,RIV_7_D_16,,,"Billings, MT",DAHL,F,,1947,5,6,2002,4,25,55,NULL,NULL,2018,5,23,"Jersey City, NJ",,10:00 AM,x,,NULL,NULL
+Conover,Michael,William,4/25/45,11/13/17,5/23/18,RIV,RIV_7_I_16,,,"Billings, MT",DAHL,M,,1945,4,25,2017,11,13,72,NULL,NULL,2018,5,23,,,10:00 AM,x,,NULL,NULL
+Brown,Mark,William,11/22/55,12/19/17,5/23/18,RIV,RIV_7_H_18,,,"Billings, MT",HEIGHTS,M,,1955,11,22,2017,12,19,62,NULL,NULL,2018,5,23,"Roundup, MT",Single,10:00 AM,x,,NULL,NULL
+Graff,John,Richard,10/12/45,4/7/18,5/23/18,RIV,RIV_7_I_18,Heart disease,Dist-interred 7/10/2018 and moved to the Veterans Cemetery (Laurel),"Billings, MT",HEIGHTS,M,,1945,10,12,2018,4,7,72,NULL,NULL,2018,5,23,,,10:00 AM,x,x,NULL,45:42.0
+McFate,James,Edward,4/26/38,3/11/18,5/23/18,RIV,RIV_7_M_18,Natural causes,,"Billings, MT",HEIGHTS,M,,1938,4,26,2018,3,11,80,NULL,NULL,2018,5,23,"RedLodge, MT",Widowed,10:00 AM,x,,NULL,NULL
+McFate,Nancy,Rae,1/11/54,2/10/07,5/23/18,RIV,RIV_7_M_18,,,"Billings, MT",HEIGHTS,F,,1954,1,11,2007,2,10,53,NULL,NULL,2018,5,23,,,10:00 AM,,,NULL,NULL
+Miller,Roy,Martin,2/12/49,6/9/17,5/23/18,RIV,RIV_7_J_18,Natural causes,,"Billings, MT",HEIGHTS,M,,1949,2,12,2017,6,9,68,NULL,NULL,2018,5,23,Billings MT,Married,10:00 AM,x,,NULL,54:06.0
+Smith,Loyd,Clayton,1/14/55,3/14/18,5/23/18,RIV,RIV_7_K_18,Pneumonia,,"Billings, MT",HEIGHTS,M,,1955,1,14,2018,3,14,63,NULL,NULL,2018,5,23,"St. Louis, MO",,10:00 AM,x,,NULL,NULL
+Shelby,Larry,,1/19/50,2/10/18,5/23/18,RIV,RIV_7_H_16,,,"Billings, MT",MIC,F,,1950,1,19,2018,2,10,68,NULL,NULL,2018,5,23,,,10:00 AM,x,,NULL,NULL
+Hamilton,Donna,Susan,1/18/52,11/23/17,5/23/18,RIV,RIV_7_E_16,,,"Billings, MT",MIC,F,,1952,1,18,2017,11,23,NULL,NULL,NULL,2018,5,23,MA,Divorced,10:00 AM,x,,NULL,NULL
+Zeller,William,Gary,2/24/64,4/30/18,NULL,RIV,RIV_7_F_16,,,"Huntley, MT",MIC,M,,1964,2,24,2018,4,30,54,NULL,NULL,NULL,NULL,NULL,"Hazen, ND",,,x,,NULL,NULL
+Farr,Gale,Ann,12/11/59,3/30/18,NULL,RIV,RIV_7_G_16,,,"Billings, MT",MIC,F,,1959,12,11,2018,3,30,59,NULL,NULL,NULL,NULL,NULL,,,,x,,NULL,51:20.0
+Livengood,Michael,Wayne,10/25/59,8/7/11,NULL,RIV,RIV_7_A_18,Car accident,,"Billings, MT",CRF,M,,1959,10,25,2011,8,7,52,NULL,NULL,NULL,NULL,NULL,"Yakima, WA",Divorced,,x,,NULL,08:04.0
+Hallett,Michael,Guy,5/4/61,10/10/08,NULL,RIV,RIV_7_L_18,Drug overdose,,Billings MT,CRF,M,,1961,5,4,2008,10,10,47,NULL,NULL,NULL,NULL,NULL,"Lander, WY",Single,,x,,NULL,NULL
+King,Mary,M,7/18/45,12/1/14,NULL,RIV,RIV_7_A_17,Natural causes,,"Billings, MT",CRF,M,,1945,7,18,2014,12,1,69,NULL,NULL,NULL,NULL,NULL,,Widowed,,x,,NULL,14:17.0
+Marshall,David,Kevin,9/25/71,11/12/17,NULL,RIV,RIV_7_B_18,Cirrhosis of liver,,"Billings, MT",CRF,M,,1971,9,25,2017,11,12,46,NULL,NULL,NULL,NULL,NULL,,Single,,x,,NULL,NULL
+Mendes,Albert,Daniel,11/28/43,2/23/14,NULL,RIV,RIV_7_C_18,Heart attack,,"Billings, MT",CRF,M,,1943,11,28,2014,2,23,71,NULL,NULL,NULL,NULL,NULL,"Hilmar, CA",Divorced,,x,,NULL,NULL
+Romero,Bernice,Fanie,6/10/37,7/24/16,NULL,RIV,RIV_7_D_18,Natural causes,,"Billings, MT",CRF,M,,1937,6,10,2016,7,24,79,NULL,NULL,NULL,NULL,NULL,"Pine Ridge, SD",Widowed,,x,,NULL,NULL
+Sheller,Vivian,,11/1/60,7/1/17,NULL,RIV,RIV_7_E_18,Cancer,,"Billings, MT",CRF,M,,1960,11,1,2017,7,1,57,NULL,NULL,NULL,NULL,NULL,,Divorced,,x,,NULL,NULL
+Sturn,Anthony,James,11/25/62,10/9/17,NULL,RIV,RIV_7_F_18,Natural causes,,"Billings, MT",CRF,M,,1962,11,25,2017,10,9,54,NULL,NULL,NULL,NULL,NULL,"Denver, CO",Single,,x,,NULL,NULL
+Umbs,Gloria,Ann,9/4/24,10/13/17,NULL,RIV,RIV_7_G_18,Natural causes,,"Billings, MT",CRF,F,,1924,9,4,2017,10,13,93,NULL,NULL,NULL,NULL,NULL,"Milwaukee, WI",Divorced,,x,,NULL,NULL
+Swan,Vern,Joseph,8/19/42,11/24/17,NULL,RIV,RIV_7_B_17,,,"Billings, MT",SMITH,M,,2942,8,19,2017,11,24,17,8,5,NULL,NULL,NULL,"Lewiston, MT",Divorced,,x,,NULL,NULL
+Singh,Patsy,Gene,3/19/40,8/18/01,NULL,RIV,RIV_7_C_17,,,"Billings, MT",SMITH,F,,1940,3,19,2001,8,18,61,NULL,NULL,NULL,NULL,NULL,"Galveston, TX",Widowed,,x,,NULL,NULL
+Chaffin,Troy,Frank,9/11/64,7/2/10,NULL,RIV,RIV_7_D_17,,,"Billings, MT",SMITH,,M,1964,9,11,2010,7,2,45,9,22,NULL,NULL,NULL,"Missoula, MT",Single,,x,,NULL,28:29.0
+Dunning,Dave,,3/15/51,10/22/15,NULL,RIV,RIV_7_E_17,,,"Billings, MT",SMITH,,M,1951,3,15,2015,10,22,64,7,7,NULL,NULL,NULL,Oregon,Widowed,,x,,NULL,NULL
+Collins,Laura,,12/27/48,11/22/13,NULL,RIV,RIV_7_F_17,,,"Billings, MT",SMITH,F,,1948,12,27,2013,11,22,65,NULL,NULL,NULL,NULL,NULL,,Single,,x,,NULL,NULL
+Munson,Bernadine,,7/7/23,5/28/05,NULL,RIV,RIV_7_G_17,,,"Billings, MT",SMITH,F,,1923,7,7,2005,5,28,81,NULL,NULL,NULL,NULL,NULL,Billings MT,Divorced,,x,,NULL,NULL
+Hughes,Wanemah,Irene,11/011/925,9/24/06,NULL,RIV,RIV_7_H_17,,,"Billings, MT",SMITH,F,,925,11,11,2006,9,24,80,NULL,NULL,NULL,NULL,NULL,"Paden, OK",Divorced,,x,,NULL,NULL
+Duncan,Margueritte,Ann,10/27/28,4/24/18,NULL,RIV,RIV_7_I_17,Natural causes,,"Billings, MT",SMITH,F,,1928,10,27,2018,4,24,79,NULL,NULL,NULL,NULL,NULL,"Harvey, IL",Widowed,,x,,NULL,NULL
+Johnson,Judy,,4/3/55,2/21/18,NULL,RIV,RIV_7_J_17,,,"Billings, MT",SMITH,F,,1955,4,3,2018,2,21,NULL,NULL,NULL,NULL,NULL,NULL,"Butte, MT",Single,,x,,NULL,NULL
+Frost,Daryl,C,NULL,NULL,5/23/18,RIV,RIV_7_K_17,,Urn was dropped off at funeral home on the day of cremain burial.,,CRF,M,,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2018,5,23,,,,,,NULL,NULL
+Bayless,Rose,M,12/21/64,2/4/19,6/5/19,RIV,RIV_7_M_15,Cardiovascular disease,,"Billings, MT",MIC,F,,1964,12,21,2019,2,4,54,NULL,NULL,2019,6,5,"Inglewood, CA",,10:00 AM,,,NULL,NULL
+Ellsworth,Nicole,Elaine,2/6/70,3/22/19,6/5/19,RIV,RIV_7_K_16,Natural,,"Billings, MT",MIC,F,,1970,2,6,2019,3,22,NULL,NULL,NULL,2019,6,5,"Soldotna, AK",Divorced,10:00 AM,,,NULL,NULL
+Humphrey,Melody,,3/15/59,8/26/18,6/5/19,RIV,RIV_7_D_14,,,"Laurel, MT",MIC,F,,1959,3,15,2018,8,26,59,NULL,NULL,2019,6,5,unknown,,10:00 AM,,,NULL,NULL
+McCulloch,James,M,12/15/13,1/21/99,6/5/19,RIV,RIV_7_A_14,Atherosclerotic cardiovascular disease,Remains were found in home of deceased.  Thomas Terry family doesn''''''''t know anything about Mr. McCullouch.  Brought cremains to Michelotti-Sawyers for burial.,"Billings, MT",MIC,M,,1913,12,15,1999,1,21,86,NULL,NULL,2019,6,5,"Circle, MT",Married,10:00 AM,,,NULL,19:52.0
+Sinclair,Catherine,,10/9/51,11/5/84,6/5/19,RIV,RIV_7_E_15,,,"Ingomar, MT",MIC,F,,1951,10,9,1984,11,5,33,NULL,NULL,2019,6,5,"Wolf Point, MT",,10:00 AM,,,NULL,NULL
+Terry,Thomas,Michael,8/25/45,1/1/19,6/5/19,RIV,RIV_7_B_15,Pulseless electrical activity arrest,,"Billings, MT",MIC,M,,1945,8,25,2019,1,1,74,NULL,NULL,2019,6,5,"Wolf Point, MT",single,10:00 AM,,,NULL,30:02.0
+Gauger,Steven,Michael,5/21/52,5/20/18,6/5/19,RIV,RIV_7_F_15,Natural,,"Billings, MT",SMITH,F,,1952,5,21,2018,5,20,65,NULL,NULL,2019,6,5,"Billings, MT",Single,10:00 AM,,,NULL,NULL
+Joyal,Rosemary,Patricia,3/17/44,12/28/44,6/5/19,RIV,RIV_7_A_15,Anoxic Encephalopathy,,"Billings, MT",SMITH,F,,1944,3,17,1944,12,28,74,NULL,NULL,2019,6,5,"Springfield, MA",Divorced,10:00 AM,,,NULL,NULL
+McCormick,Patrick,A,11/18/53,7/10/18,6/5/19,RIV,RIV_7_G_15,Cancer,,"Laurel, MT",Smith Laurel,M,,1953,11,18,2018,7,10,64,NULL,NULL,2019,6,5,"Billings, MT",Divorced,10:00 AM,,,NULL,NULL
+Trotter,Tamara,,7/4/61,7/16/18,6/5/19,RIV,RIV_7_M_16,Respiratory failure,,"Billings, MT",SMITH,F,,1961,7,4,2018,7,16,57,NULL,NULL,2019,6,5,Missouri,Single,10:00 AM,,,NULL,NULL
+Ashley,Kay,Roberta,7/3/53,11/1/18,6/5/19,RIV,RIV_7_E_14,Cardiovascular disease,,"Billings, MT",CRF,F,,1953,7,3,2018,11,1,65,NULL,NULL,2019,6,5,"Oceola, IO",Married,10:00 AM,,,NULL,26:24.0
+Last,Sandra,Mae,2/22/53,2/8/19,6/5/19,RIV,RIV_7_G_14,Chronic respiratory failure,,"Billings, MT",CRF,F,,1953,2,22,2019,2,8,65,NULL,NULL,2019,6,5,"Big Timber, MT",Single,10:00 AM,,,NULL,NULL
+Matous,unknown,,10/6/15,10/6/15,6/5/19,RIV,RIV_7_I_14,,Baby,"Billings, MT",CRF,,,2015,10,6,2015,10,6,NULL,NULL,NULL,2019,6,5,"Billings, MT",,10:00 AM,,,NULL,NULL
+Stephens,Eva,Lou,3/15/37,11/14/06,6/5/19,RIV,RIV_7_J_15,,,"Billings, MT",CRF,F,,1937,3,15,2006,11,14,82,NULL,NULL,2019,6,5,"Denver, CO",,10:00 AM,,,NULL,48:55.0
+Weis,Patricia,,6/16/60,9/3/18,6/5/19,RIV,RIV_7_L_16,Liver failure,,unknown,CRF,F,,1960,6,16,2018,9,3,NULL,NULL,NULL,2019,6,5,unknown,unknown,10:00 AM,,,NULL,NULL
+Bond,Bradford,,4/26/37,7/7/18,6/5/19,RIV,RIV_7_F_14,Cancer,,"Billings, MT",HEIGHTS,M,,1937,4,26,2018,7,7,81,NULL,NULL,2019,6,5,Wyoming,Single,10:00 AM,,,NULL,NULL
+Easton,Meecha,Ellen,9/11/75,12/22/18,6/5/19,RIV,RIV_7_B_14,Cardiac arrest,,"Billings, MT",HEIGHTS,F,,1975,9,11,2018,12,22,43,NULL,NULL,2019,6,5,"London, England",Divorced,10:00 AM,,,NULL,NULL
+Huennekens,Holly,,7/27/55,9/28/18,6/5/19,RIV,RIV_7_G_14,Cardiovascular disease,,"Billings, MT",HEIGHTS,F,,1955,7,27,2018,9,28,63,NULL,NULL,2019,6,5,"Billings, MT",Single,10:00 AM,,,NULL,14:54.0
+Vasquez,Wesley,Kajetan,9/2/60,9/17/18,6/5/19,RIV,RIV_7_H_14,Cardiopulmonary Cessation,,"Billings, MT",HEIGHTS,M,,1960,9,2,2018,9,17,58,NULL,NULL,2019,6,5,"Norwalk, CA",Divorced,10:00 AM,,,NULL,NULL
+Williams,Jim,Curtis,3/11/58,5/13/18,6/5/19,RIV,RIV_7_E_14,Cardiovascular disease,,"Billings, MT",HEIGHTS,M,,1958,3,11,2018,5,13,60,NULL,NULL,2019,6,5,"Sheridan, WY",Divorced,10:00 AM,,,NULL,NULL
+Bowman,Raymond,Lee,6/19/59,10/25/18,6/5/19,RIV,RIV_7_J_16,Respiratory failure,,"Billings, MT",DAHL,M,Jr,1959,6,19,2018,10,25,NULL,NULL,NULL,2019,6,5,"Denver, CO",Divorced,10:00 AM,,,NULL,NULL
+Daigle,Bruce,Allen,2/11/55,10/29/18,6/5/19,RIV,RIV_7_C_14,Small Cell Lymphoma,,"Billings, MT",DAHL,M,,1955,2,11,2018,10,29,63,NULL,NULL,2019,6,5,"El Paso, TX",Single,10:00 AM,,,NULL,13:21.0
+Grayson,Betty,J,10/20/46,9/3/18,6/5/19,RIV,RIV_7_C_15,unknown,,"Billings, MT",DAHL,F,,1946,10,20,2018,9,3,72,NULL,NULL,2019,6,5,unknown,Widowed,10:00 AM,,,NULL,NULL
+Larson,Lynda,Kay,3/18/51,4/16/19,6/5/19,RIV,RIV_7_L_15,Respiratory failure,,"Billings, MT",DAHL,F,,1951,3,18,2019,4,16,68,NULL,NULL,2019,6,5,"Billings, MT",Divorced,10:00 AM,,,NULL,NULL
+Rinehart,Kimi,Jo,9/14/56,6/20/18,6/5/19,RIV,RIV_7_H_15,Cardiopulmonary failure,,"Billings, MT",DAHL,F,,1956,9,14,2018,6,20,62,NULL,NULL,2019,6,5,Unknown,Unknown,10:00 AM,,,NULL,NULL
+Scoby,Brian,Lee,11/9/62,11/23/18,6/5/19,RIV,RIV_7_D_15,Lung cancer,,"Billings, MT",DAHL,M,,1962,11,9,2018,11,23,56,NULL,NULL,2019,6,5,Wyoming,Divorced,10:00 AM,,,NULL,NULL
+Faw,Sandra,Mae,2/22/53,2/8/19,6/5/19,RIV,RIV_7_J_14,Natural,,"Billings, MT",CRF,F,,1953,2,22,2019,2,8,66,NULL,NULL,2019,6,5,"Big Timber, MT",single,10:00 AM,,,NULL,NULL
+williams,John,Edward,7/23/52,2/25/20,5/27/20,RIV,RIV_7_A_12,Respiratory failure,,"Billings, MT",SMITH,M,,1952,7,23,2020,2,25,67,NULL,NULL,2020,5,27,,,,x,,NULL,19:39.0
+McHughes,Tommy,Fred,9/4/61,7/24/19,5/27/20,RIV,RIV_7_L_13,Squamous cell carcinoma head & neck,,"Billings, MT",SMITH,M,Jr,1961,9,4,2019,7,24,57,NULL,NULL,2020,5,27,"Littlew Rock, AR",Divorced,,x,,NULL,NULL
+Kimball,John,Gary,8/12/51,11/26/18,5/27/20,RIV,RIV_7_B_12,Lung disease,,"Billings, MT",SMITH,M,,1951,8,12,2018,11,26,67,NULL,NULL,2020,5,27,"Billings, MT",,,x,,NULL,NULL
+Moen,Mark,Duane,8/16/62,8/15/19,5/27/20,RIV,RIV_7_C_12,Complications of chronic ethanol abuse,,"Billings, MT",SMITH,M,,1962,8,16,2019,8,15,56,NULL,NULL,2020,5,27,"Billings, MT",Divorced,,x,,NULL,NULL
+Thorsness,Steven,Scott,11/15/49,1/29/20,5/27/20,RIV,RIV_7_D_12,Sudden Cardiac Arrest,,"Billings, MT",SMITH,M,,1949,11,15,2020,1,29,70,NULL,NULL,2020,5,27,Unknown,Unknown,,x,,NULL,NULL
+Farris,Kathryn,,10/11/45,1/14/20,5/27/20,RIV,RIV_7_E_12,Cardiac failure,,"Laurel, MT",Smith Laurel,F,,1945,10,11,2020,1,14,74,NULL,NULL,20,5,27,"Lead, SD",Unknown,,x,,NULL,NULL
+Starbird,Sharon,K,2/12/41,9/19/17,5/27/20,RIV,RIV_7_F_12,Multiple myeloma,,"Laurel, MT",Smith Laurel,F,,1941,2,12,2017,9,19,76,NULL,NULL,2020,5,27,"Glasgow, MT",Unknown,,x,,NULL,NULL
+Peterson,Keith,Chris,4/23/62,9/3/19,5/27/20,RIV,RIV_7_I_13,Respiratory failure,,"Billings, MT",DAHL,M,,1962,4,23,2019,9,3,57,NULL,NULL,20,5,27,"Seattle, WA",Divorced,,x,,NULL,NULL
+Swain,Larry,Warren,1/7/40,1/26/20,5/27/20,RIV,RIV_7_J_13,Accident,,"Billings, MT",DAHL,M,,1940,1,7,2020,1,26,80,NULL,NULL,2020,5,27,"Tecumeh, MI",Divorced,,x,,NULL,NULL
+Ellingson,Harvey,Edward,10/18/53,3/9/20,5/27/20,RIV,RIV_7_K_13,Natural,,"Billings, MT",DAHL,M,,1953,10,18,2020,3,9,67,NULL,NULL,2020,5,27,"Billings, MT",Married,,x,,NULL,NULL
+Emigh,John,Russel,3/10/51,3/22/20,5/27/20,RIV,RIV_7_M_13,Natural,,"Billings, MT",DAHL,M,,1951,3,10,2020,3,22,69,NULL,NULL,2020,5,27,"Helena, MT",Divorced,,x,,NULL,NULL
+Scholes,Louise,Ellen,2/4/32,6/26/19,5/27/20,RIV,RIV_7_C_13,,,"Billings, MT",CRF,F,,1932,2,4,2019,6,26,87,NULL,NULL,2020,5,27,"Pittsburg, KS",,,x,,NULL,NULL
+LaFont,Alvina,,6/18/55,12/16/19,NULL,RIV,RIV_7_D_13,,,"Billings, MT",CRF,F,,1955,6,18,2019,12,16,64,NULL,NULL,NULL,NULL,NULL,"St. Joseph, MO",,,x,,NULL,NULL
+Davenport,Gregory,B,10/4/60,5/21/19,5/27/20,RIV,RIV_7_E_13,Unknown,,"Billings, MT",CRF,M,,1960,10,4,2019,5,21,59,NULL,NULL,2020,5,27,Unknown,Unknown,,x,,NULL,NULL
+Peterson,Douglas,Paul,1/27/59,10/25/19,5/27/20,RIV,RIV_7_F_13,Unknown,,"Billings, MT",CRF,M,,1959,1,27,2019,10,25,60,NULL,NULL,2020,5,27,Unknown,Unknown,,x,,NULL,NULL
+Riggle,Wyona,May Ann,6/26/42,11/6/19,5/27/20,RIV,RIV_7_G_13,Unknown,,"Billings, MT",CRF,F,,1942,6,26,2019,11,6,77,NULL,NULL,2020,5,27,"Sheridan, WY",Unknown,,x,,NULL,NULL
+Hills,Charles,,8/10/48,9/4/19,5/27/20,RIV,RIV_7_H_13,Unknown,,"Billings, MT",CRF,M,,1948,8,10,2019,9,4,71,NULL,NULL,2020,5,27,Unknown,Unknown,,x,,NULL,NULL
+Swenson,Katheryn,A,11/15/44,9/29/19,5/27/20,RIV,RIV_7_M_14,Cardiovascular Disease,,"Billings, MT",HEIGHTS,F,,1944,11,15,2019,9,29,74,NULL,NULL,2020,5,27,"Moorhead, MN",Divorced,,x,,NULL,NULL
+Keathley,James,Charles,3/28/44,8/1/19,5/27/20,RIV,RIV_7_L_14,Gunshot to head,,"Billings, MT",HEIGHTS,M,,1944,3,28,2019,8,1,75,NULL,NULL,2020,5,27,Unknown,Unknown,,x,,NULL,NULL
+Gonzalez,Joel,Robert,11/3/60,3/6/20,5/27/20,RIV,RIV_7_K_14,Cardiovascular disease,,"Billings, MT",MIC,M,,1960,11,3,2020,3,6,59,NULL,NULL,2020,5,27,"Spokane, WA",Married,,x,,NULL,36:13.0
+Whitehouse,Clifford,Lane,4/27/55,2/4/20,5/27/20,RIV,RIV_7_B_13,Respiratory failure,,"Billings, MT",HEIGHTS,M,,1955,4,27,2020,2,4,64,NULL,NULL,20,5,27,"Los Angeles, CA",Divorced,,x,,NULL,NULL
+Heily,Hugh,J,9/20/51,8/4/19,5/27/20,RIV,RIV_7_A_13,Cardiovascular disease,,"Billings, MT",HEIGHTS,F,,1951,9,20,2019,8,4,67,NULL,NULL,2020,5,27,Unknown,Unknown,,x,,NULL,NULL
+Borstad,Glenn,Leonard,7/14/32,6/19/06,5/19/21,RIV,RIV_7_G_9,Pulmonary Disease,,"Billings, MT",MIC,M,,1932,7,14,2006,6,19,74,NULL,NULL,2021,5,19,"Scobey, Montana",Divorced,,,,NULL,53:06.0
+Giacomini,Loretta,Reynolds,10/29/40,3/2/21,5/19/21,RIV,RIV_7_F_9,Unknown,,"Billings, MT",MIC,F,,1940,10,29,2021,3,2,81,NULL,NULL,2021,5,19,"San Francisco, CA",Widowed,,,,NULL,01:27.0
+Courtney,Afton,Isla,2/17/69,9/21/19,5/19/21,RIV,RIV_7_E_9,,,"Billings, MT",MIC,F,,1969,2,17,2019,9,21,50,NULL,NULL,2021,5,19,"Anchorage, AK",Divorced,,,,NULL,37:44.0
+Thomas,Kim,Ellen,1/21/57,9/7/20,5/19/21,RIV,RIV_7_D_9,Plasma Cell Leukemia,,"Billings, MT",MIC,F,,1957,1,21,2020,9,7,63,NULL,NULL,2021,5,19,"St. Francis, WI",Divorced,,,,NULL,40:40.0
+Isbell,Billy,John,9/16/53,6/24/20,5/19/21,RIV,RIV_7_C_9,Cardiac arrest,,"Billings, MT",MIC,M,,1953,9,16,2020,6,24,67,NULL,NULL,2021,5,19,"Dallas, TX",Unknown,,,,NULL,42:47.0
+Eide,Kirk,,3/3/68,1/23/21,5/19/21,RIV,RIV_7_L_12,Unknown,,"Billings, MT",DAHL,M,,1968,3,3,2021,1,23,53,NULL,NULL,2021,5,19,"Billings, MT",Single,,,,NULL,27:27.0
+Graham,Elaine,,8/25/26,1/3/01,5/19/21,RIV,RIV_7_B_9,"Respiratory Failure, Pulmonary Disease",,"Billings, MT",SMITH,F,,1926,8,25,2001,1,3,95,NULL,NULL,2021,5,19,"Otto, WY",Widowed,,,,NULL,30:04.0
+Wilson,Claud,A,9/19/27,2/27/01,5/19/21,RIV,RIV_7_A_9,Acute cerebrovascular accident,,"Billings, MT",SMITH,F,,1927,9,19,2001,2,27,74,NULL,NULL,2021,5,19,"Wichita Falls, TX",Married,,,,NULL,33:21.0
+Patel,Unknown,,4/8/21,4/8/21,5/18/21,RIV,RIV_7_M_10,,,"Billings, MT",SMITH,,,2021,4,8,2021,4,8,NULL,NULL,NULL,2021,5,18,"Billings, MT",,,,,NULL,NULL
+Nevrivy,Unknown,,8/16/20,8/16/20,5/19/21,RIV,RIV_7_L_10,,,"Billings, MT",SMITH,,,2020,8,16,2020,8,16,NULL,NULL,NULL,2021,5,19,"Billings, MT",,,,,NULL,25:24.0
+Nevrivy,unknown,,4/16/20,4/16/20,5/19/21,RIV,RIV_7_K_10,,,"Billings, MT",SMITH,,,2020,4,16,2020,4,16,NULL,NULL,NULL,2021,5,19,"Billings, MT",,,,,NULL,NULL
+Porterie,Rogers,,7/22/65,4/23/18,5/19/21,RIV,RIV_7_J_10,Natural causes,,"Billings, MT",SMITH,M,,1965,7,22,2018,4,23,53,NULL,NULL,2021,5,19,"Galveston, TX",Unknown,,,,NULL,34:47.0
+Morris,Carol,L,9/26/40,4/6/18,5/19/21,RIV,RIV_7_I_10,Congestive heart failure,,"Billings, MT",SMITH,F,,1940,9,26,2018,4,6,78,NULL,NULL,2021,5,19,Unknown,Unknown,,,,NULL,37:35.0
+Gillum,Tracy,Conrad,10/13/57,7/25/20,NULL,RIV,RIV_7_H_10,Unknown,,"Billings, MT",SMITH,F,,1957,10,13,2020,7,25,63,NULL,NULL,NULL,NULL,NULL,"Norman, OK",Natural,,,,NULL,50:12.0
+Gaabo,Edward,R,6/25/49,10/13/20,5/19/21,RIV,RIV_7_G_10,Cardiac arrest,,"Billings, MT",SMITH,M,,1949,6,25,2020,10,13,71,NULL,NULL,2021,5,19,Unknown,single,,,,NULL,05:48.0
+Tannoia,Domnick,John,5/12/45,2/25/20,5/19/21,RIV,RIV_7_F_10,Brain injury,,"Shepherd, MT",SMITH,M,,1945,5,12,2020,2,25,75,NULL,NULL,2021,5,19,Italy,Widowed,,,,NULL,07:27.0
+Wilson,Edwin,D,8/10/44,12/27/20,5/19/21,RIV,RIV_7_E_10,Cardiac arrest,,"Laurel, MT",SMITH,M,,1944,8,10,2020,12,27,76,NULL,NULL,2021,5,19,"Bishops, Great Britain",single,,,,NULL,08:22.0
+Snyder,George,Vernon,7/21/34,5/20/19,5/19/21,RIV,RIV_7_D_10,Respiratory failure,,"Billings, MT",SMITH,M,,1934,7,21,2019,5,20,85,NULL,NULL,2021,5,19,"Brooklyn, NY",Widowed,,,,NULL,10:35.0
+Salsbury II,Lee,Edward,10/19/53,3/22/21,5/19/21,RIV,RIV_7_C_10,Cardiac arrest,,"Billings, MT",SMITH,M,,1953,10,19,2021,3,22,68,NULL,NULL,2021,5,19,"Billings, MT",single,,,,NULL,11:29.0
+Edmonson,Michael,,10/22/63,11/2/20,5/19/21,RIV,RIV_7_B_10,Cardiovascular disease,,"Billings, MT",SMITH,M,,1963,10,22,2020,11,2,57,NULL,NULL,2021,5,19,"Toppenish, WA",single,,,,NULL,12:41.0
+Linda,Sandra,L,8/10/43,10/26/17,5/19/21,RIV,RIV_7_A_10,Cardiac arrest,,"Billings, MT",SMITH,F,,1943,8,10,2017,10,26,74,NULL,NULL,2021,5,19,Delaware,Divorced,,,,NULL,38:46.0
+Breding,Sandy,Alexander,6/30/52,9/29/20,5/19/21,RIV,RIV_7_L_11,Respiratory failure,,"Billings, MT",CRF,F,,1952,6,30,2020,9,29,68,NULL,NULL,2021,5,19,"Rounup, MT",Divorced,,,,NULL,39:32.0
+Wilkins,Roy,Keith,11/23/43,10/28/20,5/19/21,RIV,RIV_7_M_11,Cardiac arrest,,"Billings, MT",CRF,M,,1943,11,23,2020,10,28,77,NULL,NULL,2021,5,19,Illinois,Divorced,,,,NULL,42:06.0
+Padilla,Raymond,Thomas,7/27/54,12/21/20,5/19/21,RIV,RIV_7_K_11,Liver disease,,"Billings, MT",CRF,M,,1954,7,27,2020,12,21,66,NULL,NULL,2021,5,19,"Hardin, MT",Unknoqn,,,,NULL,43:01.0
+Sawnor,Michael,,8/18/47,9/18/20,5/19/21,RIV,RIV_7_J_11,Lung cancer,,"Billings, MT",CAS,M,,1947,8,18,2020,9,18,73,NULL,NULL,2021,5,19,"San Mateo, CA",Divorced,,,,NULL,44:49.0
+Russell,Octavio,Jose,11/20/63,9/29/20,5/19/21,RIV,RIV_7_I_11,Stomach cancer,,"Billings, MT",CRF,M,,1963,11,20,2020,9,29,58,NULL,NULL,2021,5,19,Mexico,Single,,,,NULL,45:59.0
+Henneman,Theodore,,5/9/58,7/10/20,5/19/21,RIV,RIV_7_H_11,Respiratory failure,,Billings,CRF,M,,1958,5,9,2020,7,10,62,NULL,NULL,2021,5,19,Unknown,Widowed,,,,NULL,52:52.0
+Jordan,Laura,,6/8/49,2/24/21,5/19/21,RIV,RIV_7_G_11,Respiratory failure,,"Billings, MT",CRF,F,,1949,6,8,2021,2,24,72,NULL,NULL,2021,5,19,"Des Moines, IA",Unknown,,,,NULL,54:44.0
+Jackson,Kit,,6/24/37,11/6/19,5/19/21,RIV,RIV_7_F_11,Cardiac arrest,,"Worden, MT",CRF,F,,1937,6,24,2019,11,6,82,NULL,NULL,2021,5,19,"Fredonia, ND",Divorced,,,,NULL,58:35.0
+Patten,Teresa,M,8/14/46,2/17/21,5/19/21,RIV,RIV_7_E_11,Respiratory failure,,"Billings, MT",HEIGHTS,F,,1946,8,14,2021,2,17,75,NULL,NULL,2021,5,19,Massachuttes,Single,,,,NULL,00:41.0
+Castrios,Thomas,Michael,6/15/56,5/3/20,5/19/20,RIV,RIV_7_D_11,Acute coronary syndrome,,"Billings, MT",HEIGHTS,M,,1956,6,15,2020,5,3,63,NULL,NULL,2020,5,19,Unknown,Unknown,,,,NULL,06:20.0
+Denham,Daniel,Dee,9/14/63,12/14/63,5/19/21,RIV,RIV_7_C_11,Natural causes,,"Billings, MT",DAHL,M,Jr,1963,9,14,1963,12,14,58,NULL,NULL,2021,5,19,Unknown,Divorced,,,,1213780,07:35.0
+Farley,Kathleen,Ann,5/22/46,10/26/20,5/19/21,RIV,RIV_7_B_11,Hypertension/Cardiovascular disease,,"Billings, MT",DAHL,F,,1946,5,22,2020,10,26,58,NULL,NULL,2021,5,19,"Queens, NY",Divorced,,,,1196273,08:57.0
+Nailen III,John,Daniel,8/19/75,9/28/20,5/29/21,RIV,RIV_7_A_11,Suicide,,"Billings, MT",DAHL,M,,1975,8,19,2020,9,28,45,NULL,NULL,2021,5,29,Redding CA,Married,,,,1208331,09:59.0
+Grignon,Ernest,Leo,10/21/58,6/8/20,5/19/21,RIV,RIV_7_M_12,Pending investigation,,"Billings, MT",,M,,1958,10,21,2020,6,8,62,NULL,NULL,2021,5,19,"Los Angales, CA",Unknown,,,,NULL,10:54.0
+Muniyan,Mark,Anthony,2/9/78,11/27/19,5/19/21,RIV,RIV_7_K_12,Suicide,,"Billings, MT",DAHL,F,,1978,2,9,2019,11,27,41,NULL,NULL,2021,5,19,Alaska,Single,,,,1114879,11:39.0
+Mirko,Joan,E,2/3/43,1/31/21,5/19/21,RIV,RIV_7_J_12,Natural causes,,"Billings, MT",DAHL,F,,1943,2,3,2021,1,31,78,NULL,NULL,2021,5,19,"Long Beach, CA",Divorced,,,,1230903,12:13.0
+Arcena,Thomas,,8/18/48,8/3/20,5/19/21,RIV,RIV_7_H_12,Natural,,"Billings, MT",DAHL,M,,1948,8,18,2020,8,3,72,NULL,NULL,2021,5,19,"San Diego, CA",Divorced,,,,1176513,17:36.0
+Price,Darcy,Lea,4/22/20,7/31/60,5/19/21,RIV,RIV_7_G_12,Natural,,"Billings, MT",DAHL,F,,2020,4,22,1960,7,31,60,NULL,NULL,2021,5,19,"Virginia, MN",Married,,,,1186240,18:38.0
+Brooks,Sherry,Lynn,8/28/61,4/12/21,5/19/21,RIV,RIV_7_I_12,Natural causes,,"Billings, MT",DAHL,F,,1961,8,28,2021,4,12,60,NULL,NULL,2021,5,19,"Moundville, AL",Single,,,,1247183,NULL
