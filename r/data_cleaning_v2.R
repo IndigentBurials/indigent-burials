@@ -71,7 +71,7 @@ indigent_burials_5$County  <- ifelse(indigent_burials_5$County == "-- County", "
 indigent_burials_5$County <- ifelse(indigent_burials_5$County == "Unknown County", " ", indigent_burials_5$County)
 
 
-indigent_burials_5$date <- paste(indigent_burials_5$State, indigent_burials_5$County, sep=", ")
+indigent_burials_5$date <- paste(indigent_burials_5$County, indigent_burials_5$State, sep=", ")
 
 categories3 <- unique(indigent_burials_5$County)
 veiw <- categories3
@@ -83,20 +83,27 @@ veiw <- categories4
 categories4<-as.data.frame(categories4)
 
 
-indigent_burials_5$date <- ifelse(indigent_burials_5$date == ", ", " ", indigent_burials_5$date)
-
-indigent_burials_5$date <- ifelse(indigent_burials_5$date == ", Bernalillo County", "Bernalillo County", indigent_burials_5$date)
-
-indigent_burials_5$date <- ifelse(indigent_burials_5$date == ", NM County Outside of Bernalillo County", "NM County Outside of Bernalillo County", indigent_burials_5$date)
+indigent_burials_5$date <- ifelse(indigent_burials_5$date == ", ", "Dona Ana, New Mexico", indigent_burials_5$date)
 
 
 
-indigent_burials_5$GeoCoding <- indigent_burials_5$date
+
+
+#indigent_burials_5$date <- ifelse(indigent_burials_5$date == ", Bernalillo County", "Bernalillo County", indigent_burials_5$date)
+
+#indigent_burials_5$date <- ifelse(indigent_burials_5$date == ", NM County Outside of Bernalillo County", "NM County Outside of Bernalillo County", indigent_burials_5$date)
+
+
+
+#indigent_burials_5$GeoCoding <- indigent_burials_5$date
 
 
 categories5 <- unique(indigent_burials_5$GeoCoding)
 veiw <- categories5
 categories5<-as.data.frame(categories5)
+
+#fwrite(indigent_burials_5, "indigent_burals_6.csv")
+write.csv(indigent_burials_5, "C:\\Users\\visot\\indigent-burials\\PolyaVerVla-test\\indigent-burials_6.csv", row.names=FALSE)
 
 
 
